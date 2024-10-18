@@ -292,3 +292,7 @@ https://vkvd512.okcdn.ru/?expires=1729268335900&srcIp=49.49.231.203&pr=40&srcAg=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVidokXDUbLJKXy2QcARt_bSKZrnzC8K0mWw&usqp=CAU" group-title="AIGA MIZUKI",SDMF-024 พี่น้องอาบน้ำครั้งแรกในรอบ10ปี_ซับไทยUncen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
 https://surrit.com/7aaf3abf-5853-4d5b-b78d-84526c1d7651/1080p/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/HSJRAep.png" group-title="LIVE TV",TruePremireHD1
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
