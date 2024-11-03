@@ -275,13 +275,6 @@ https://overlay-pon.fa-th-main.com/quality/0AqutCsr/1080/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
 https://surrit.com/7aaf3abf-5853-4d5b-b78d-84526c1d7651/1080p/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/HSJRAep.png" group-title="LIVE-TV",TruePremireHD1
-https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/HSJRYXt.png" group-title="LIVE-TV",TruePremireHD2
-https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/HSJRRmN.png" group-title="LIVE-TV",TruePremireHD3
-https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://urlimage.cc/attachments/forum/202404/06/090236dj11zxprj92a86z0.gif" group-title="AIAV",AIAV-001 AI สาวสวยไอดอล มิไร ซากิโนะ อายุ 18 ปี
 https://surrit.com/860266ea-9856-4ea7-b3c8-4552e908e4c7/1080p/video.m3u8
 #EXTINF:-1 tvg-logo="https://urlimage.cc/attachments/forum/202409/23/153915daerjacraa939n07.gif" group-title="AIAV",AIAV-003 AI ผู้มาใหม่กราเวียร์แน่นอน Laila Kano
@@ -369,3 +362,16 @@ https://abre-videos.cdn1122.com/_hls/videos/c/f/d/e/6/cfde6b79277f9f25eb5d1b50c1
 https://av-th.xyz/m3/RGNiV2doMmxhSlYreGRkSzQ1VUZzZHJMMjVPVmxOMzFKbUxmUzhzM21vY2NUczdBYU1GelVhS05YQS9VTnJaVTZIV3EzVHZDU1pjY3o3cmpSaHk5Mk9NajQ3WTJVZzB3eTBBbWQvcmV6eEJTNFV3VFFVQU13M1Z2UWE1ZE92Qk85SGNIK1lQM0VuaUsrRkdxV2NLOU56dW1oZzBjVHlQejNLUHNneUwrK2lkQTZhZmRPQmY1WTFhRzFMcUVnUDljYkVSaWl0ZEJDZnhRZGY5bWI3Rm80M0lFZUlpSWUzcmphbHc5R1RYU2hHUEpkS0hSQjhwTENnbGlEek9NN1ZBeW1TcG5pakJDcy9VZzQwajdWTEpUR0dacU5BUFlWc0NWTFlXaEthUnhLdy9xZkl3b1pMRW9vWnRFRGx4NmhsQ28%3D
 #EXTINF:-1 tvg-logo="https://www.gifmeat.com/wp-content/uploads/2016/11/Teen-Lucy-Doll-on-her-knees-sucking-her-daddys-cock.gif" group-title="Other-XxxX",Lucy Doll เด็กไม่ดีต้องโดนปี้ทำโทษ
 https://dash-s2-c50-de-cdn.eporner.com/hls/v5/8500669-,240p-av1,360p-av1,480p-av1,720p-av1,.mp4.urlset/master.m3u8?hash=UwkhUNaQKsiByvL3rn9JdA&expires=1729892175&ip=49.228.232.17
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0" group-title="LIVE-TV",EPL-1(dookeela)
+https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0" group-title="LIVE-TV",EPL-1(lsfb)
+https://cdn1.googlecdn.live/lsfb/epl1_sd/playlist.m3u8
+EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0" group-title="LIVE-TV",EPL-1(lsmscore)
+https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/HSJRAep.png" group-title="LIVE-TV",TruePremireHD1
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/HSJRYXt.png" group-title="LIVE-TV",TruePremireHD2
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/HSJRRmN.png" group-title="LIVE-TV",TruePremireHD3
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
