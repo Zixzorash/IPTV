@@ -146,8 +146,12 @@ https://fembeqq.xyz/hls/aSs1cHZzbXNOQ1dOK2MrTjh2eGJKbzh0eTlWWWNqbkVFMUQyeDlVaHI1
 https://surrit.com/e82b9847-e2d3-4c27-ab5a-11f73be77871/1080p/video.m3u8
 #EXTINF:-1 tvg-logo="https://image.playno1.com/images/2022/07/27/50fbf0f84c39920e10428e1ddb9b0475.gif" group-title="Saika-Kawakita",SSIS-499
 https://eomd1.fembeqq.xyz/api/files/431627c5aff96937f2c8b1066f2c073b/720p/0001.html
-#EXTINF:-1 tvg-logo="https://18.img4u.click/pic/blog/202409/41846//qwF0HUCFnofWej9FH8g2Qg.gif" group-title="Saika-Kawakita",SONE-405
-https://av-kuy.com/v/b2Co5T8GBGPUSw7?sid=14097&t=hls
+#EXTINF:-1 tvg-logo="https://18.img4u.click/pic/blog/202409/41846//qwF0HUCFnofWej9FH8g2Qg.gif" group-title="Saika-Kawakita",SONE405-NoPlayer
+https://themead5.tamrai.com/hls/d3NMdjFVOGovNDRneU0wN29kSTFoUT09/xfgdYshjhYhj=!sdsHsyG
+#EXTINF:-1 tvg-logo="https://18.img4u.click/pic/blog/202409/41846//qwF0HUCFnofWej9FH8g2Qg.gif" group-title="Saika-Kawakita",SONE405-NoPlayer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+https://themead5.tamrai.com/hls/d3NMdjFVOGovNDRneU0wN29kSTFoUT09/xfgdYshjhYhj=!sdsHsyG
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjcCRp1XLjLcveTj8egIaGqalvmB51ny-GgwIGKhzZkGuF19Q5S0IVKI&s=10" group-title="Yua-Mikami",SSIS-241_ผิดมหันต์สัมพันธ์ต้องห้าม(THUC)
 https://cdn.pvvstream.pro/videos/-213924070/456240110/vid_720p.mp4?rs=720000&rb=5592405&secure=8R4Uf6LwOHiBOCtK8oIYjQ%3D%3D%2C1725114301
@@ -366,8 +370,10 @@ https://av-th.xyz/m3/RGNiV2doMmxhSlYreGRkSzQ1VUZzZHJMMjVPVmxOMzFKbUxmUzhzM21vY2N
 https://dash-s2-c50-de-cdn.eporner.com/hls/v5/8500669-,240p-av1,360p-av1,480p-av1,720p-av1,.mp4.urlset/master.m3u8?hash=UwkhUNaQKsiByvL3rn9JdA&expires=1729892175&ip=49.228.232.17
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE",EPL1doo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
 https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE",EPL1lsfb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 https://cdn1.googlecdn.live/lsfb/epl1_sd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE",EPL1score
 https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
