@@ -148,10 +148,12 @@ https://surrit.com/e82b9847-e2d3-4c27-ab5a-11f73be77871/1080p/video.m3u8
 https://eomd1.fembeqq.xyz/api/files/431627c5aff96937f2c8b1066f2c073b/720p/0001.html
 #EXTINF:-1 tvg-logo="https://18.img4u.click/pic/blog/202409/41846//qwF0HUCFnofWej9FH8g2Qg.gif" group-title="Saika-Kawakita",SONE405-NoPlayer
 https://themead5.tamrai.com/hls/d3NMdjFVOGovNDRneU0wN29kSTFoUT09/xfgdYshjhYhj=!sdsHsyG
-#EXTINF:-1 tvg-logo="https://18.img4u.click/pic/blog/202409/41846//qwF0HUCFnofWej9FH8g2Qg.gif" group-title="Saika-Kawakita",SONE405-NoPlayer
+#EXTINF:-1 tvg-logo="https://18.img4u.click/pic/blog/202409/41846//qwF0HUCFnofWej9FH8g2Qg.gif" group-title="Saika-Kawakita",SONE405Player
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
 https://themead5.tamrai.com/hls/d3NMdjFVOGovNDRneU0wN29kSTFoUT09/xfgdYshjhYhj=!sdsHsyG
-
+#EXTINF:-1 tvg-logo="https://18.img4u.click/pic/blog/202409/41846//qwF0HUCFnofWej9FH8g2Qg.gif" group-title="Saika-Kawakita",SONE405Player2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+https://themead5.tamrai.com/hls/d3NMdjFVOGovNDRneU0wN29kSTFoUT09/xfgdYshjhYhj=!sdsHsyG
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvjcCRp1XLjLcveTj8egIaGqalvmB51ny-GgwIGKhzZkGuF19Q5S0IVKI&s=10" group-title="Yua-Mikami",SSIS-241_ผิดมหันต์สัมพันธ์ต้องห้าม(THUC)
 https://cdn.pvvstream.pro/videos/-213924070/456240110/vid_720p.mp4?rs=720000&rb=5592405&secure=8R4Uf6LwOHiBOCtK8oIYjQ%3D%3D%2C1725114301
