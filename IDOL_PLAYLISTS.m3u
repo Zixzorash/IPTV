@@ -64,8 +64,10 @@ https://vkvd135.mycdn.me/?srcIp=184.22.229.225&pr=40&expires=1728179248619&srcAg
 https://vkvd543.okcdn.ru/?srcIp=184.22.229.225&pr=40&expires=1728179127216&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.55.181&type=5&sig=ajKZ89QND_w&ct=0&urls=45.136.22.162&clientType=14&appId=512000384397&id=7052940151542
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTidmE81EgRe7VLPJ17v1I6EyOQ9oXL85rvZ8SG88o9usOTUYGWKOkadP8&s=10" group-title="Kokoro-Utano",SSIS-714(THUC)
 https://vkvd485.mycdn.me/?srcIp=184.22.229.225&pr=40&expires=1728178946679&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.157&type=3&sig=wVv09H29znE&ct=0&urls=45.136.20.158&clientType=14&appId=512000384397&id=7053193513718
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSYPCZKkDfSAO3_zE1oQT_MIluZ1xoFaUnLRURN-soYvL4aSF97-EiWtyD&s=10" group-title="Kokoro-Utano",SONE-272(THUC)
-https://vkvd144.mycdn.me/?srcIp=184.22.229.225&pr=40&expires=1728178770005&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.21.146&type=5&sig=45uWxrk9FW0&ct=0&urls=185.226.53.149&clientType=14&appId=512000384397&id=7054278789878
+#EXTINF:-1 tvg-logo="https://post.imgso.net/images/2024/07/23/filef8097.gif" group-title="Kokoro-Utano", SONE-272
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="English",LANGUAGE="eng",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://kseries123.com/filesr2/cffc48c4883e49b7d75d47f4f40f5a67/audio/audio_0"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2500000,RESOLUTION=1280x720,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
+https://kseries123.com/filesr2/cffc48c4883e49b7d75d47f4f40f5a67/720/index
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd1hEqCqvqMTad8pMAXHghkyMw2rdiC9uKIIzpDST0GKpw4OfmEEcbeDE&s=10" group-title="Kokoro-Utano",SSIS-959(THUC)
 https://vk6-6.vkuser.net/?srcIp=49.228.235.4&pr=40&expires=1726407530526&srcAg=CHROME_ANDROID&fromCache=1&ms=95.142.206.165&type=4&sig=WjyVypJo-nE&ct=14&urls=45.136.20.153%3B45.136.22.198&clientType=14&appId=512000384397&zs=43&id=7053307874038
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpCOyYjJQc1tgGBNnr53be_dG-IUMj2iCls-koVznf2lTe27q1FiRw4Zg&s=10" group-title="Kokoro-Utano",SSIS-753(THUC)
