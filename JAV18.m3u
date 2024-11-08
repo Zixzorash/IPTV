@@ -412,13 +412,14 @@ https://ezycdn.com/playlist-k6aqed4n-FHD.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cutie-Kim", Cutie Kim - Coworker started มาห้องแฟนเก่า
 https://ezycdn.com/playlist-msbsb6lh-SD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1doo
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1doo
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1lsfb
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1lsfb
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn1.googlecdn.live/lsfb/epl1_sd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1score
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1score
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pics.dmm.co.jp/digital/video/ssis00997/ssis00997jp-1.jpg" group-title="Yuuka-Murakami",SSIS-997_Wife Sister
