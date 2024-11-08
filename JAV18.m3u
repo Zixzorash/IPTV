@@ -412,13 +412,15 @@ https://ezycdn.com/playlist-k6aqed4n-FHD.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Cutie-Kim", Cutie Kim - Coworker started มาห้องแฟนเก่า
 https://ezycdn.com/playlist-msbsb6lh-SD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1doo
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL-1(dooball)
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1lsfb
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1lsfb
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn1.googlecdn.live/lsfb/epl1_sd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1score
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cms.dmpcdn.com/livetv/2022/03/23/f7114a70-aa94-11ec-9b91-03afdbb2e824_webp_320.png" group-title="SPORTS-LIVE", EPL1score
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
 
@@ -430,3 +432,65 @@ https://2453340445.tapecontent.net/radosgw/QWOaQ7ZBkGi0lAP/jET-pYybEFCxfQ3qHueAa
 
 #EXTINF:-1 tvg-logo="https://pics.dmm.co.jp/digital/video/1start00128/1start00128jp-20.jpg" group-title="Aozora-Hikari", START-128_Sibling Bath
 https://surrit.com/9161047a-e728-45a5-a919-e87193447495/playlist.m3u8
+
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0", EPL-1 (dookeela)
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0", EPL-1 (lsfb)
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn1.googlecdn.live/lsfb/epl1_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0", EPL-1 (lsmscore)
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/wgrfizqmjyvwm1673a05q/premier-league-1.png?rlkey=7fsa6ss74d4h3ltdkj76c8qq1&dl=0", True Premier Football HD 1(thaim3u)
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/2gz0h2ie0klwdp6em3l93/TPL1.png?rlkey=54vu0yedbgs46homvuoc97hb2&dl=0" group-title="SPORT",TPL-1(livescorethai)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/7ka1ta3gldxjyhy7mxh8a/epl2.png?rlkey=w1u2auevfdxr9y1utwjfighil&dl=0", EPL-2 (dookeela)
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/jyl0jc5wgwjmrh7dg3oj6/premier-league-2.png?rlkey=0niqxa2oep9igmq0lzs3c9zsd&dl=0" group-title="SPORT",True Premier Football HD 2(thaim3u)
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p3jju1t1idk212zymjrod/TPL2.png?rlkey=ieggoclfs0fnyllts3r6kl6q1&dl=0" group-title="SPORT",TPL-2(livescorethai)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/vf9ip98bvwt8xlzauvi55/epl3.png?rlkey=xtqwebs1zrftkped4dykbmsrp&dl=0", EPL-3(dookeela)
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/ffjxj7beya6opri0eugis/premier-league-3.png?rlkey=t5q2cmh6pa2wbyf61p86tm6g3&dl=0", True Premier Football HD 3(thaim3u)
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/7yzvm7sbfsk3t28p8uhbo/TPL3.png?rlkey=hzebkj6d8obytcb2y8asj5dz4&dl=0" group-title="SPORT",TPL-3(livescorethai)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/bs2nadsf2chbzch8wch2z/epl4.png?rlkey=sgt77cowv1qtthyr4fbw15jlw&dl=0", EPL-4(dookeela)
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/6kiy0jw6qmmoisg7hxv0k/premier-league-4.png?rlkey=d5phzxs5o6likjviy2hejg1zc&dl=0",True Premier Football HD 4(thaim3u)
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/1kuys7uo1fvwk3hhliolq/TPL4.png?rlkey=5ytxoidvv7aof4k325we8s8v6&dl=0" group-title="SPORT",TPL-4(livescorethai)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/m26i5jt3f5hefy3kd2yzg/epl5.png?rlkey=l1176dpa8oe9tpmtwpzzjh19x&dl=0", EPL-5(dookeela)
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8
+#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/g9zwv7stvapc778murj98/premier-league-5.png?rlkey=zuexdibuhgyaqj1j6gjd7e11g&dl=0",True Premier Football HD 5(thaim3u)
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ah4q2ekfizpo2n26wldwb/TPL5.png?rlkey=2ahzm705kyrdbu62yb8eltyxf&dl=0" group-title="SPORT",TPL-5(livescorethai)
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8dcmdw3vxv1ssmt6c4xtv/TS1-1.png?rlkey=qjk45cr9i6axvluc2aztsfbdv&dl=0" group-title="SPORT",True Sports 1HD(dookeela)
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://dookeela.live/live-tv/tsp1
+#https://cdn2.aws-live-streaming.com/lsmscore/tsp1/playlist.m3u8
