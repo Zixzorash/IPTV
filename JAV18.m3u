@@ -412,9 +412,10 @@ https://surrit.com/f7b3558e-73fa-4a34-9e13-b7427c07eebc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pics.dmm.co.jp/digital/video/1start00128/1start00128jp-20.jpg" group-title="Aozora-Hikari", START-128_Sibling Bath
 https://surrit.com/9161047a-e728-45a5-a919-e87193447495/playlist.m3u8
 
-#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0", EPL-1 (dookeela)
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499665.png" group-title="SPORT", EPL1
+#EXTVLCOPT:http-referrer=https://dookeela.live
+https://streamamg-fa.akamaiz.com:443/dookeela/epl1_sd/chunks.m3u8?nimblesessionid=11022965&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyNCAxOjIwOjE4IEFNJmhhc2hfdmFsdWU9Sms1V2pQTXl4UFVGMURRaHdSamNrdz09JnZhbGlkbWludXRlcz0xJmlkPThmNzJhM2IxN2Y5YTM2YmUzMjY0MmI3MTA4YTc1OGI5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNg==
+
 #EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0", EPL-1 (lsfb)
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn1.googlecdn.live/lsfb/epl1_sd/playlist.m3u8
