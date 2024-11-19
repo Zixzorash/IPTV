@@ -416,6 +416,10 @@ https://surrit.com/9161047a-e728-45a5-a919-e87193447495/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dookeela.live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://streamamg-fa.akamaiz.com:443/dookeela/epl1_sd/chunks.m3u8?nimblesessionid=11022965&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyNCAxOjIwOjE4IEFNJmhhc2hfdmFsdWU9Sms1V2pQTXl4UFVGMURRaHdSamNrdz09JnZhbGlkbWludXRlcz0xJmlkPThmNzJhM2IxN2Y5YTM2YmUzMjY0MmI3MTA4YTc1OGI5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNg==
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1664499673.png" group-title="SPORT", EPL2
+#EXTVLCOPT:http-referrer=https://dookeela.live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://streamamg-fa.akamaiz.com:443/dookeela/epl2/chunks.m3u8?nimblesessionid=11034333&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyNCAyOjIyOjE2IEFNJmhhc2hfdmFsdWU9ZFBLUDBZd1JGYkNJcXdqNHhhSTZJUT09JnZhbGlkbWludXRlcz0xJmlkPThmNzJhM2IxN2Y5YTM2YmUzMjY0MmI3MTA4YTc1OGI5JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xMw==
 
 #EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0", EPL-1 (lsfb)
 #EXTVLCOPT:http-referrer=https://dookeela.live/
