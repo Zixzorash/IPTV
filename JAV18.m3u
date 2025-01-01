@@ -1,9 +1,5 @@
 #EXTM3U
 
-
-#===================================== Jun Aizawa  ==========================================#
-
-
 #EXTINF:-1 group-title="Jun-Aizawa" tvg-logo="https://pics.dmm.co.jp/digital/video/snis00330/snis00330pl.jpg",SNIS-330 สายลับจับปู๋หนูทดลองยา
 https://ezycdn.com/playlist-ra4g2d58-SD.m3u8
 
@@ -317,6 +313,8 @@ https://vkvd437.mycdn.me/?srcIp=184.22.229.225&pr=40&expires=1728180550278&srcAg
 https://vkvd534.okcdn.ru/?srcIp=184.22.229.225&pr=40&expires=1728180458555&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.55.172&type=3&subId=7363374680786&sig=ZeglK6nKh3o&ct=0&urls=45.136.20.180&clientType=14&appId=512000384397&id=7154179902059
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Karen-Kaede", IPX-758 [TH UNCEN] แผนกล้างท่อคุณพ่อตัวเลีย
 https://vkvd199.mycdn.me/?srcIp=184.22.229.225&pr=40&expires=1728180355627&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.21.198&type=3&sig=6OcmxEKGCLI&ct=0&urls=45.136.20.150&clientType=14&appId=512000384397&id=6819082144478
+#EXTINF:-1 tvg-logo="https://s7.gifyu.com/images/SXp8N.gif" group-title="Karen-Kaede",IPX-515_[TH-UN]_My Lover Is Waiting At Home For Me
+https://vkvd277.okcdn.ru/?srcIp=184.22.228.150&pr=40&expires=1736140887989&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.155&type=5&sig=OUJ9Mv2ozy0&ct=0&urls=45.136.20.153&clientType=14&appId=512000384397&id=7618057210553
 
 #EXTINF:-1 tvg-logo="https://img3.javmost.com/images/SONE-127-UNCENSORED-LEAK.webp" group-title="Kokoro-Utano", SONE-127_ติดใจ(THUC)
 https://surrit.com/d2dd4e06-1708-4f40-9427-555dd15cbfaa/1080p/video.m3u8
@@ -784,6 +782,3 @@ https://vkvd301.okcdn.ru/?srcIp=49.228.234.74&pr=40&expires=1735326498208&srcAg=
 https://vkvd486.okcdn.ru/?srcIp=111.90.140.223&pr=40&expires=1735229334057&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.169&type=5&sig=FFdlsRSZsAo&ct=0&urls=45.136.21.197&clientType=14&appId=512000384397&id=2359643605641
 #EXTINF:-1 tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00666/ipx00666jp-3.jpg" group-title="Aizawa-Minami",IPX-666
 https://surrit.com/b46802b9-6e3a-42e1-8dcc-4a7a45849b24/1080p/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://s7.gifyu.com/images/SXp8N.gif" group-title="Karen-Kaede",IPX-515_[TH-UN]_My Lover Is Waiting At Home For Me
-https://vkvd277.okcdn.ru/?srcIp=184.22.228.150&pr=40&expires=1736140887989&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.155&type=5&sig=OUJ9Mv2ozy0&ct=0&urls=45.136.20.153&clientType=14&appId=512000384397&id=7618057210553
