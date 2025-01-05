@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1 tvg-logo="https://pics.vpdmm.cc/digital/video/1sdmf00024/1sdmf00024pl.jpg" group-title="AIGA-MIZUKI",SDMF-024
+https://surrit.com/7aaf3abf-5853-4d5b-b78d-84526c1d7651/1080p/video.m3u8
+#EXTINF:-1 tvg-logo="https://us1.myximage.com/2021/06/16/65304f850ce25de7632fa6ecf101a8b6.gif" group-title="AIGA-MIZUKI",MIDE-733
+https://surrit.com/984f8527-f7b7-4f15-a8b3-f5659ac2081c/playlist.m3u8
