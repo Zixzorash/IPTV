@@ -1,0 +1,5 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://cdn.xsimg.com/images/2024/12/28/24010702060154d17.gif" group-title="G-DRIVE",PPPE-127[Minami Kawakita]
+#EXT-X-PLAYLIST-TYPE:VOD
+https://i2avh.gdplayer.vip/?video_id=55300353280202160b285431270c0027540907310823550c20551627563c572810&quality=1080&action=p
