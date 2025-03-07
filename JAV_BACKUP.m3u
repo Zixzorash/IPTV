@@ -3,3 +3,9 @@
 #EXTINF:-1 tvg-logo="https://cdn.xsimg.com/images/2024/12/28/24010702060154d17.gif" group-title="G-DRIVE",PPPE-127[Minami Kawakita]
 #EXT-X-PLAYLIST-TYPE:VOD
 https://i2avh.gdplayer.vip/?video_id=55300353280202160b285431270c0027540907310823550c20551627563c572810&quality=1080&action=p
+
+#--------------- Aizawa-Minami ----------------#
+
+#EXTINF:-1 tvg-logo="https://img.aimgeek.com/images/2024/07/18/file3f93b.gif" group-title="Aizawa-Minami",IPX-557[RM]
+#EXT-X-PLAYLIST-TYPE:VOD
+https://i3u6p.gdplayer.vip/?video_id=55273b522b0a561d12533e3e0a55170c112857270d2b1c050854150f033517121e&quality=1080&action=p
