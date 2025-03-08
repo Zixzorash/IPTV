@@ -106,3 +106,9 @@ https://zpige.gdplayer.vip/?video_id=553b0034083e2e06285423540d3151213c300c560f3
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/sone-441.vtt"
 https://qu8nq.gdplayer.vip/?video_id=552c5305171422261707353e0d552e260c13230a2b152a220c0c080a310153030e&quality=1080&action=p
+
+#--------------- Eva-Elfie ----------------#
+
+#EXTINF:-1 tvg-logo="https://cdn.elitebabes.com/content/210558/0020-13_w800.jpg" group-title="Eva-Elfie",Eva Elfie - Fishnet
+#EXT-X-PLAYLIST-TYPE:VOD
+https://vz-1d9210ec-4bd.b-cdn.net:443/6aef5ef4-5e30-4836-8338-37535aa4f8a5/2160p/video.m3u8
