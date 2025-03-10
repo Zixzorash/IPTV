@@ -75,6 +75,18 @@ https://fembeqv2.xyz/cdn/hls/fa0788ebe61740b82a847b428c40ebbb/master.txt?s=1&d=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://fembeqv2.xyz/hls/RUlEU01Qb0Z2SlZvRzkvcnVZV0FlWXN3eEgyVWJvL0JpYVNjOEg2aTlNa2NaQ3dnK2Z3RkRoRVZzbzFXeHRRYXpTQWIyMDVXdWlzM1cwU1dOTk0vckhIUFJYZFBoWUplZWN0S09xczhMUE9wLzBpNDdvZ0ttLzJkTDZZd2RhMG1JYk1hT2ZYcW93aGhzMFErdENHaXdNa1dXQXJuZkowZWFVSjNWOFIrcWs5TGROSDdZanNzQThMbUhXSEErZUwz
 
+#-------------  SUB-TH  --------------#
+
+#EXTINF:-1 tvg-logo="https://static.xascdn.li/contents/videos_sources/16000/16312/screenshots/4.jpg" group-title="SUB-TH",DASS-161
+#EXT-X-PLAYLIST-TYPE:VOD
+https://vz-1d9210ec-4bd.b-cdn.net:443/cc46b0d3-72fb-4222-a7a7-258f750534b7/1080p/video.m3u8
+#EXTINF:-1 tvg-logo="https://pics.dmm.co.jp/digital/video/1moon003/1moon003jp-7.jpg" group-title="SUB-TH",MOON-003 (Ichika Matsumoto)
+#EXT-X-PLAYLIST-TYPE:VOD
+https://vz-1d9210ec-4bd.b-cdn.net:443/b3703262-234e-4fc0-ac86-fc5276335c37/1080p/video.m3u8
+#EXTINF:-1 tvg-logo="https://pics.dmm.co.jp/digital/video/1sw00331/1sw00331jp-5.jpg" group-title="SUB-TH",SW-331 (Sana Mizuhara)
+#EXT-X-PLAYLIST-TYPE:VOD
+https://vz-1d9210ec-4bd.b-cdn.net:443/8e0219d8-bbb8-4d95-b37c-6b21bdd8ef6d/1080p/video.m3u8
+
 #--------------- Aizawa-Minami ----------------#
 
 #EXTINF:-1 tvg-logo="https://img.aimgeek.com/images/2024/07/18/file3f93b.gif" group-title="Aizawa-Minami",IPX-557[RM]
