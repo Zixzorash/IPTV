@@ -77,12 +77,15 @@ https://fembeqv2.xyz/hls/RUlEU01Qb0Z2SlZvRzkvcnVZV0FlWXN3eEgyVWJvL0JpYVNjOEg2aTl
 
 #-------------  SUB-TH  --------------#
 
-#EXTINF:-1 tvg-logo="https://i.redd.it/uxil5ynh9vzc1.gif" group-title="SUB-TH",SSIS-996(60FPS)
+#EXTINF:-1 tvg-logo="https://i.redd.it/uxil5ynh9vzc1.gif" group-title="SUB-TH",SSIS-996(4K_60FPS)
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/15e90418-7ee2-4b96-bae4-b31a9e0fe56f/2160p/video.m3u8
 #EXTINF:-1 tvg-logo="https://pics.dmm.co.jp/digital/video/1mtall084/1mtall084jp-7.jpg" group-title="SUB-TH",MTALL-084(60FPS)
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/1e4b300e-1f32-416a-b1e1-44a66bee74de/1080p/video.m3u8
+#EXTINF:-1 tvg-logo="https://avmisohd.com/wp-content/uploads/2024/09/Screenshot-2024-09-23-193656.png.webp" group-title="SUB-TH",SONE-364[4K_TH-UNCEN]
+#EXT-X-PLAYLIST-TYPE:VOD
+
 #EXTINF:-1 tvg-logo="https://static.xascdn.li/contents/videos_sources/16000/16312/screenshots/4.jpg" group-title="SUB-TH",DASS-161
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/cc46b0d3-72fb-4222-a7a7-258f750534b7/1080p/video.m3u8
@@ -113,6 +116,8 @@ https://vz-1d9210ec-4bd.b-cdn.net:443/021c34a6-0426-4de3-91b7-71b5fde46674/1080p
 #EXTINF:-1 tvg-logo="https://static-sg-cdn.eporner.com/thumbs/static4/6/68/682/6822523/8_240.jpg" group-title="SUB-TH",SDMF-024 [TH]
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/4343e9b6-a124-40ff-91d7-69552eceecc8/1080p/video.m3u8
+#EXTINF:-1 tvg-logo="https://pics.dmm.co.jp/digital/video/dvaj00618/dvaj00618jp-8.jpg" group-title="SUB-TH",DVAJ-618 [TH_60FPS]
+#EXT-X-PLAYLIST-TYPE:VOD
 
 
 #--------------- Aizawa-Minami ----------------#
