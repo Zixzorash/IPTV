@@ -1,5 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="  " tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0", EPL-1 (dookeela)
+#EXTINF:-1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8
