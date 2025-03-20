@@ -95,6 +95,9 @@ https://vz-1d9210ec-4bd.b-cdn.net:443/572a1cfc-1bd6-495d-a2d2-1c0a2b061b05/1080p
 #EXTINF:-1 tvg-logo="https://static.xascdn.li/contents/videos_sources/16000/16312/screenshots/4.jpg" group-title="SUB-TH",DASS-161
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/cc46b0d3-72fb-4222-a7a7-258f750534b7/1080p/video.m3u8
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/bzTXz.gif" group-title="SUB-TH",SONE-269 [THAI UNCEN]
+#EXT-X-PLAYLIST-TYPE:VOD
+
 #EXTINF:-1 tvg-logo="https://pics.dmm.co.jp/digital/video/1moon003/1moon003jp-7.jpg" group-title="SUB-TH",MOON-003 (Ichika Matsumoto)
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/b3703262-234e-4fc0-ac86-fc5276335c37/1080p/video.m3u8
