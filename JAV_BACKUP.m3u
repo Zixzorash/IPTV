@@ -74,6 +74,9 @@ https://fembeqv2.xyz/hls/RUlEU01Qb0Z2SlZvRzkvcnVZV0FlWXN3eEgyVWJvL0JpYVNjOEg2aTl
 
 #-------------  SUB-TH  --------------#
 
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bzGSP.gif" group-title="SUB-TH",IPX-534 [4K TH_UNCEN]
+#EXT-X-PLAYLIST-TYPE:VOD
+https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/30/17433027611QuuLXmCIw/updated-playlist.m3u8?du=1743319178&height=2160&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://i.redd.it/uxil5ynh9vzc1.gif" group-title="SUB-TH",SSIS-996(4K_60FPS)
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/15e90418-7ee2-4b96-bae4-b31a9e0fe56f/2160p/video.m3u8
