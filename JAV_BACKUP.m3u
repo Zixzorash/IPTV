@@ -137,7 +137,6 @@ https://fembeqv2.xyz/hls/RUlEU01Qb0Z2SlZvRzkvcnVZV0FlWXN3eEgyVWJvL0JpYVNjOEg2aTl
 
 #-------------  SUB-TH  --------------#
 
-
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bzGh5.gif" group-title="SUB-TH",SONE-080 [SUBTH_UNCEN]
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/93238c6f-ee63-40fa-99df-8ac65315fa82/1080p/video.m3u8
@@ -253,6 +252,74 @@ https://vz-1d9210ec-4bd.b-cdn.net:443/6aef5ef4-5e30-4836-8338-37535aa4f8a5/2160p
 
 #--------------- SPORT ----------------#
 
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png", group-title="SPORT", Premier1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png", group-title="SPORT", Premier2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-3.png", group-title="SPORT", Premier3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-4.png", group-title="SPORT", Premier4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png", group-title="SPORT", Premier5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport1.png", group-title="SPORT", True Sports1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport2.png", group-title="SPORT", True Sports2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport3.png", group-title="SPORT", True Sports3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png", group-title="SPORT", True Sports4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-tsport5.png", group-title="SPORT", True Sports5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-tsport7.png", group-title="SPORT", True Sports7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-spotv1.png", group-title="SPORT", SPOTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-spotv2.png", group-title="SPORT", SPOTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tennis.png", group-title="SPORT", Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein1.png", group-title="SPORT", BeIN1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein2.png", group-title="SPORT", BeIN2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-bein3.png", group-title="SPORT", BeIN3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L)
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
+https://www.livedoomovies.com:4432/02_epl3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-type="live" tvg-id="TruePremierFootball1.th" tvg-name="  " group-title="SPORT" tvg-logo="https://dl.dropbox.com/scl/fi/m39ntjxh0s3b4vilskmfc/epl1.png?rlkey=o0nbk82n3bpqil97lg8vhp6k2&dl=0", EPL-1 (dookeela)
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8
