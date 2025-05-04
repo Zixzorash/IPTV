@@ -1,5 +1,65 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bpNqH.gif" group-title="Top-100",SSIS-903 [TH-UNCEN]
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+https://vz-1d9210ec-4bd.b-cdn.net/803884fd-fede-445a-a767-cf7b4b10a6ed/playlist.m3u8?height=1080&userid=&video_version=2.8&platform=zixzorash&default_source=2.8
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://i.ibb.co/DfSncW6x/IMG-20250503-180621.jpg" group-title="Top-100",IPZZ-464
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+https://vz-1d9210ec-4bd.b-cdn.net/398999e7-3143-40aa-a5b7-974e119c1d0e/playlist.m3u8
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://s4.gifyu.com/images/bLgGe.gif" group-title="Top-100",MIDA-062
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+https://vz-1d9210ec-4bd.b-cdn.net/c00898ec-cf8a-4a09-83af-4c26e41efafb/playlist.m3u8
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://i.ibb.co/Jj3cfRcH/Screenshot-2025-05-04-05-54-42-561-com-miui-videoplayer-edit.jpg" group-title="Top-100",IPZZ-541
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+https://vz-1d9210ec-4bd.b-cdn.net/b7264130-eb69-464a-9d4b-e06cfec25597/playlist.m3u8
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://i.ibb.co/szDVf9s/retouch-2025050215525818.jpg" group-title="Top-100",PFES-103
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+https://vz-1d9210ec-4bd.b-cdn.net/971d16e0-d3e7-4abe-ab6c-b5fdcd5934f1/playlist.m3u8
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bzTzj.gif" group-title="Top-100",FSDSS-738
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+https://vz-1d9210ec-4bd.b-cdn.net/572a1cfc-1bd6-495d-a2d2-1c0a2b061b05/playlist.m3u8
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bzT6G.gif" group-title="Top-100",IPX-557
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+https://vz-1d9210ec-4bd.b-cdn.net/d9a6fe48-164d-44e9-949c-730d6316d1c4/playlist.m3u8
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://s4.gifyu.com/images/bL4Ax.gif" group-title="Top-100",SSIS-998
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+https://vz-1d9210ec-4bd.b-cdn.net/15e90418-7ee2-4b96-bae4-b31a9e0fe56f/playlist.m3u8
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://s4.gifyu.com/images/bL4Ah.gif" group-title="Top-100",JUQ-568
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+https://vz-1d9210ec-4bd.b-cdn.net/d493f30c-d2da-450f-976b-6662dca3255c/playlist.m3u8
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/01/21/filee2c6b.gif" group-title="Top-100",CAWD-365
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+https://vz-1d9210ec-4bd.b-cdn.net/a9c678d1-74e6-41b4-a445-81bdd807d406/playlist.m3u8
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s4.gifyu.com/images/bLgVL.gif" group-title="Top-100",SONE-626
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net/bab8a3e2-4866-4667-91a8-6f3704e25ef9/playlist.m3u8
