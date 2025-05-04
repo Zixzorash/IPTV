@@ -200,12 +200,6 @@ https://vz-1d9210ec-4bd.b-cdn.net:443/4343e9b6-a124-40ff-91d7-69552eceecc8/1080p
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/5db6f28a-6207-4bff-ad3d-4f637b4a9a01/1080p/video.m3u8
 
-#--------------- Aizawa-Minami ----------------#
-
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bzT6G.gif" group-title="Aizawa-Minami",IPX-557[RM]
-#EXT-X-PLAYLIST-TYPE:VOD
-https://i3u6p.gdplayer.vip/?video_id=55273b522b0a561d12533e3e0a55170c112857270d2b1c050854150f033517121e&quality=1080&action=p
-
 #--------------- Hikari-Aozora ----------------#
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00214/1start00214jp-5.jpg" group-title="Hikari-Aozora",START-214[TH UNCEN]ระบายฟุ้งซ่าน
