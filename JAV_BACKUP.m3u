@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s4.gifyu.com/images/bLgVL.gif" group-title="OTHER AV",SONE-626
 #EXT-X-PLAYLIST-TYPE:VOD
-https://vz-1d9210ec-4bd.b-cdn.net/bab8a3e2-4866-4667-91a8-6f3704e25ef9/playlist.m3u8
+https://github.com/Zixzorash/IPTV/blob/AV-JAPANESE/sone626-master.m3u8
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.aimgeek.com/images/2024/05/20/file459f7.gif" group-title="OTHER AV",MIMK-159
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/ee07145e-d4e8-4e38-924c-a29ebc76470c/1080p/video.m3u8
