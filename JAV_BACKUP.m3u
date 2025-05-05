@@ -1,5 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://pics.dmm.co.jp/digital/video/1stars435/1stars435jp-17.jpg" group-title="sweet",STARS-435
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/stars-435.vtt"
+https://www.xasiat.com/get_file/14/40db9c6b2969cff969300647b5e5dad8524d1cae56/57000/57361/57361_source.mp4
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.picel48.com/i/2025/01/23/tw2u2q.gif" group-title="sweet",IPX-758
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=https://gdplayer.to/uploads/subtitles/ipx-758.vtt""
+https://www.xasiat.com/get_file/13/d63997672dede0517444a76b1c566da14a7781aa2c/46000/46588/46588_source.mp4
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://ie2.javquick.com/media/A6FpiYL2l7FNIdkTCoUihGEQSvMNy7ez88ipss6oHE.jpg" group-title="Sweet",FSDSS-828
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/FSDSS-828.vtt"
+https://www.xasiat.com/get_file/16/c34630d8328ab105fb02127efaf5414aed4c957349/73000/73097/73097_source.mp4
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/01/20/file596a1.gif" group-title="sweet",SSNI-266
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/SSNI-266.vtt"
+https://www.xasiat.com/get_file/14/2912fff0ef745d73a6b3d4910ce0ac45547b750ca4/53000/53465/53465_source.mp4
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fvn7xe7clax7e1.gif" group-title="sweet",SSIS-491
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/ssis-491.vtt"
+https://www.xasiat.com/get_file/10/3a9b8fde3f198225fb0afd7dcab186156deafbe883/24000/24652/24652_source.mp4
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bpNqH.gif" group-title="Top-100",SSIS-903 [TH-UNCEN]
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
