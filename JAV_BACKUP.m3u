@@ -59,6 +59,13 @@ https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456243484.mp4?url=dmt2ZDM4NS
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/ssis-491.vtt"
 https://cdn3.turboviplay.com/data2/EmnCRJv1MyXvdveaFurm/EmnCRJv1MyXvdveaFurm.m3u8
 
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/10/06/240107020601b9852.gif" group-title="sweet",IPZZ-390
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/ipzz-390th.vtt"
+https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456244871.mp4?url=dmt2ZDE2Mi5va2Nkbi5ydS8_ZXhwaXJlcz0xNzQ3NDEzOTQ1MTE1JnNyY0lwPTQ1Ljg0LjI4LjE4NSZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTQ1LjEzNi4yMS4xMzcmdHlwZT01JnNpZz1KcWJ3UG5XcFRfUSZjdD0wJnVybHM9MTg1LjIyNi41NS4xNDUmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NzM1NDU0Mjk4MzY5NQ&secure=1747154745-qNQMiVDARBw6aZHLA30ZATm1%2BUDYBEnvLcZyuONjdyU%3D&dl=1
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bpNqH.gif" group-title="Top-100",SSIS-903 [TH-UNCEN]
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
