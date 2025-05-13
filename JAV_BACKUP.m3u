@@ -27,10 +27,11 @@ https://vz-1d9210ec-4bd.b-cdn.net/28201719-2f8d-44c5-a8ba-9d583abe0eac/playlist.
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/01/20/file596a1.gif" group-title="sweet",SSNI-266
 #EXT-X-PLAYLIST-TYPE:VOD
+#EXTVLCOPT:http-referrer=https://noodlemagazine.com/watch/-220867277_456243484
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/SSNI-266.vtt"
-https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456243484.mp4?url=dmt2ZDM4NS5va2Nkbi5ydS8_ZXhwaXJlcz0xNzQ3Mzk0MDM3ODcxJnNyY0lwPTQ1Ljg0LjMxLjEyNiZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTQ1LjEzNi4yMC4xNDImdHlwZT01JnNpZz1MdFlsaXJxWkc3ayZjdD0wJnVybHM9MTg1LjIyNi41My4yMTQmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NjgwNzg5ODU1NjkzOA&secure=1747134837-0jazagjD3r72rIEnDpmTiqo%2Bf66LnveguwHe9AG3p6A%3D
+https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456243484.mp4?url=dmt2ZDQ3MC5va2Nkbi5ydS8_ZXhwaXJlcz0xNzQ3Mzk2MDA4MjY0JnNyY0lwPTQ1Ljg0LjI4LjE3JnByPTQwJnNyY0FnPVVOS05PV04mbXM9MTg1LjIyNi41My4yMTQmdHlwZT01JnNpZz1hVDlxM2swbzY3ZyZjdD0wJnVybHM9MTg1LjIyNi41Mi4xNjcmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NjgwNzg5ODU1NjkzOA&secure=1747136808-QvofRbdm%2FXYnkVoGh8t1xlpMYKtYbJc4IqSiTdk7xuc%3D
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.picel48.com/i/2024/03/09/st4lo.gif" group-title="sweet",SSIS-491
 #EXT-X-PLAYLIST-TYPE:VOD
