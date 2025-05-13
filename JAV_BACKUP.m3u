@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="" group-title="sweet",IPZZ-225
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/03/09/file9bfc8.gif" group-title="sweet",IPZZ-225
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/IPZZ-225.vtt"
