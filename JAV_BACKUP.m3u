@@ -6,7 +6,7 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/stars-435.vtt"
 https://defra-ocrs5.xascdn.li/remote_control.php?file=B64YTo0OntzOjQ6InRpbWUiO2k6MTc0NzA3NzQ1MTtzOjU6ImxpbWl0IjtpOjA7czo0OiJmaWxlIjtzOjM2OiIvdmlkZW9zLzU3MDAwLzU3MzYxLzU3MzYxX3NvdXJjZS5tcDQiO3M6MjoiY3YiO3M6MzI6ImE5YjVmZDNhMWJhNDNkNjk4NzVjOTk2ZTdjMGViMTgzIjt9
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.picel48.com/i/2025/01/23/tw2u2q.gif" group-title="sweet",IPX-758
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/12/03/240107020601f74da.gif" group-title="sweet",IPX-758
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/ipx-758.vtt"
