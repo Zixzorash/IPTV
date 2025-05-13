@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2025/01/22/2401070206010acb1.gif" group-title="sweet",IPX-917
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/ipx-917th.vtt"
+https://jdevchpxbgc6.cdn-centaurus.com/hls2/01/00113/2tfzsthuy894_,n,h,x,.urlset/master.m3u8?t=Jbz1iGU83_DFIOLRz4Cg6mmn90fHsqKdA4Vs0NycQLE&s=1747122414&e=129600&f=699563&srv=ui02xppnnk0h&i=0.4&sp=500&p1=ui02xppnnk0h&p2=ui02xppnnk0h&asn=133481
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://iili.io/38g9Ux9.gif" group-title="sweet",STARS-435
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
