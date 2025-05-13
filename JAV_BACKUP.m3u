@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movie" tvg-logo="" group-title="sweet",[TH-UC] START-053
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/09/1741562621ZQ1ggLSebO/subtitle/th/subtitle_1741562621ZQ1ggLSebO-th-subtitle_main.vtt"
+https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456244531.mp4?url=dmt2ZDM4Mi5va2Nkbi5ydS8_c3JjSXA9NDUuODQuMjguMTUyJnByPTQwJmV4cGlyZXM9MTc0NzYwOTk3ODczOSZzcmNBZz1VTktOT1dOJmZyb21DYWNoZT0xJm1zPTQ1LjEzNi4yMC4xMzkmdHlwZT01JnNpZz00OXhvZ2xaN1dXTSZjdD0wJnVybHM9MTg1LjIyNi41NS4xODkmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NzEzNDM2MjUzNjY5NQ&secure=1747150778-Hp3T2RC2Tz7Nx5EqdZbghb7sBhNfppUiIQZVKIrA22w%3D&dl=1
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/03/09/file9bfc8.gif" group-title="sweet",IPZZ-225
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-referrer=https://www.eporner.com/
