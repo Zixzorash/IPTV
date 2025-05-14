@@ -5,7 +5,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/hsoda-010.vtt"
-https://cdn3.turboviplay.com/data2/hA2tqrazObSeYtqC7aCZ/hA2tqrazObSeYtqC7aCZ.m3u8
+https://cdn3.turboviplay.com/data2/hA2tqrazObSeYtqC7aCZ/hA2tqrazObSeYtqC7aCZ.m3u8?dl=1
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/02/02/file2e967.gif" group-title="Family",STARS-993 ล่อเพื่อน
 #EXT-X-PLAYLIST-TYPE:VOD
