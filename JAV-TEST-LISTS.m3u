@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2025/03/22/24010702060121533.gif" group-title="Family",JUR-271 เผลอเย็ดแม่เลี้ยง
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/JUR-271.srt"
+https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/JUR-271_FIX.m3u8
