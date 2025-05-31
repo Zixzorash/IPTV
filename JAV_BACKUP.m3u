@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="" group-title="Family",SONE-157
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/04/20/file0b2c3.gif" group-title="Family",SONE-157
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
