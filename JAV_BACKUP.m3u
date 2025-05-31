@@ -58,7 +58,7 @@ https://vz-1d9210ec-4bd.b-cdn.net/d7277c1c-0118-469d-ab91-fb144a1a2e05/playlist.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/05/14/1747265293PEQqDUzcGy/subtitle/th/subtitle_1747265293PEQqDUzcGy-th-subtitle_main.vtt"
-https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/05/14/1747265293PEQqDUzcGy/updated-playlist.m3u8
+https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/05/14/1747265293PEQqDUzcGy/updated-playlist.m3u8?du=1747274240&height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.xsimg.com/images/2024/12/17/24010702060121529.gif" group-title="Family",START-220 ลึกสุดขั้ว
 #EXT-X-PLAYLIST-TYPE:VOD
