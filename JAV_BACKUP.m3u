@@ -2,11 +2,10 @@
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://avpockiehd.com/wp-content/uploads/2024/08/%E0%B8%AA%E0%B8%B0%E0%B8%81%E0%B8%94%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4.jpg" group-title="Family",START-129
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTVLCOPT:http-referrer=https://www.avjoy.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/START-129-TH.vtt"
-https://media-cdn1.avjoy.me/video/gQj3ktuFstZcuk2J-7GOgQ/1748701144/54855_1080p.mp4?seo_title=START-129
+https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456243760.mp4?url=dmt2ZDQ3MS5va2Nkbi5ydS8_ZXhwaXJlcz0xNzQ4OTU0MTg5MjgyJnNyY0lwPTQ1Ljg0LjMxLjEyMCZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTE4NS4yMjYuNTMuMjE1JnR5cGU9NSZzaWc9Q1p2dktmS3ZEaFEmY3Q9MCZ1cmxzPTQ1LjEzNi4yMS4yMDUmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NjkxNDA5MTA1OTkyOQ&secure=1748694989-Xlvw%2FudjYjn3wIkL7x46xE9h3DA5YD2DmV5zrXfl0Sc%3D&dl=1
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://pics.dmm.co.jp/digital/video/cjod00355/cjod00355jp-6.jpg" group-title="Family",CJOD-355
 #EXT-X-PLAYLIST-TYPE:VOD
