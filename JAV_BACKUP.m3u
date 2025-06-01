@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/04/05/filef4073.gif" group-title="Family",HMN-222
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/HMN-222.vtt"
+https://ejjyomiqje9sf.ovaltinecdn.com/hls2/01/01510/c80ia3elv3kb_,l,n,.urlset/index-f2-v1-a1.m3u8?t=54xeLRl4xM-hNBvwXwTDN0tobsOIiI4fM5Q_diZ7VJ0&s=1748765568&e=129600&f=7553551&srv=pVpR0xBjFze8&i=0.4&sp=500&p1=pVpR0xBjFze8&p2=pVpR0xBjFze8&asn=133481
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://pics.dmm.co.jp/digital/video/1fsdss919/1fsdss919jp-10.jpg" group-title="Family",FSDSS-919
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
