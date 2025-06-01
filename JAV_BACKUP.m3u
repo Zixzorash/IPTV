@@ -4,7 +4,7 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/fsdss-919-th.vtt"
 https://cdn4.turboviplay.com/data1/6751e4cc835e7/6751e4cc835e7.m3u8
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.faleno.net/top/wp-content/uploads/2025/04/FNS-011_04_064res.jpg" group-title="Family",FNS-011
