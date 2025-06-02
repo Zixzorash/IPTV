@@ -2,11 +2,10 @@
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2025/04/08/240107020601308a8.gif" group-title="Family",SONE-127
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXTVLCOPT:http-referrer=https://eporner.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/SONE-127.vtt"
-https://vid-s8-n50-fr-cdn.eporner.com/v6/GaO4aeYJUBA3Xo5a1SYfEQ/1748826498_49.228.231.62_1018/13063477-1080p.mp4
+https://vz-1d9210ec-4bd.b-cdn.net/149aa994-ff24-4547-b7cc-ddfa87f82a2d/playlist.m3u8?height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/04/05/filef4073.gif" group-title="Family",HMN-222
 #EXT-X-PLAYLIST-TYPE:VOD
