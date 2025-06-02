@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.picel48.com/i/2025/01/11/c6e5fp.gif" group-title="Family",[4K 60FPS] SSIS-671(UNCEN)
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.picel48.com/i/2025/01/11/c6e5fp.gif" group-title="Family",[4K 60FPS] SSIS-671 (UNCEN)
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
-https://vid-s2-n50-fr-cdn.eporner.com/v6/gHTeY0-np7PIKFB6T9eU2A/1748883202_49.228.224.188_4828/12425272-2160p.mp4
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/06/02/1748867879nNWD0hSFFW/subtitle/th/subtitle_1748867879nNWD0hSFFW-th-subtitle_main.vtt"
+https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/06/02/1748867879nNWD0hSFFW/updated-playlist.m3u8?du=1748904043&height=2160&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2025/04/08/240107020601308a8.gif" group-title="Family",SONE-127
 #EXT-X-PLAYLIST-TYPE:VOD
