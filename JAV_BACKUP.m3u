@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movie" tvg-logo="" group-title="Family",HEYZO-1638
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+https://cdn-pr.pvvstream.pro/videos/1080/-188019100_456240072.mp4?url=dmt2ZDM4Mi5va2Nkbi5ydS8_ZXhwaXJlcz0xNzUxMjU2MTU3NzU4JnNyY0lwPTQ1Ljg0LjMxLjEwOSZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTQ1LjEzNi4yMC4xMzkmdHlwZT01JnNpZz0wVEJNTWpnVHJyNCZjdD0wJnVybHM9NDUuMTM2LjIyLjE0MCZjbGllbnRUeXBlPTE0JmFwcElkPTUxMjAwMDM4NDM5NyZpZD03MTU3NzE5NTAxNDc4&secure=1750996957-ToadNyhM8HumOsQce6iibgZuoKGEp1jm0FZfodBl6OM%3D
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/07/22/file2e655.gif" group-title="Family",[4K] ADN-470 พ่อตา
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
