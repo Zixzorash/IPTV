@@ -5,7 +5,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/WAAA-121.vtt"
-
+https://cdn.turboviplay.com/data2/rJ7zk0r4amnujMfph5wA/rJ7zk0r4amnujMfph5wA.m3u8
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.faleno.net/dahlia/wp-content/uploads/2025/05/dldss-405_04_102_retouched.jpg" group-title="Family",DLDSS-405 ซับไทย
 #EXT-X-PLAYLIST-TYPE:VOD
