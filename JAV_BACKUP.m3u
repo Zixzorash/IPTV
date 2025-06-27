@@ -11,8 +11,8 @@ https://cdn-pr.pvvstream.pro/videos/1080/-188019100_456240072.mp4?url=dmt2ZDM4Mi
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
-
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/06/27/1750992857Xk6WVeSMNK/subtitle/th/subtitle_1750992857Xk6WVeSMNK-th-subtitle_main.vtt"
+https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/06/27/1750992857Xk6WVeSMNK/updated-playlist.m3u8?du=1751003419&height=2160&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.picel48.com/i/2025/01/11/c6e5fp.gif" group-title="Family",[4K 60FPS] SSIS-671 (UNCEN)
 #EXT-X-PLAYLIST-TYPE:VOD
