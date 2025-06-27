@@ -1,10 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="mp4" tvg-logo="https://img.2048.spa/images/2024/07/22/file2e655.gif" group-title="Family",[4K] ADN-470 พ่อตาสะใภ้
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/07/22/file2e655.gif" group-title="Family",[4K] ADN-470 พ่อตาสะใภ้
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.picel48.com/i/2025/01/11/c6e5fp.gif" group-title="Family",[4K 60FPS] SSIS-671 (UNCEN)
 #EXT-X-PLAYLIST-TYPE:VOD
