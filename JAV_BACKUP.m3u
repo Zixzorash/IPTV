@@ -442,7 +442,10 @@ https://fembeqv2.xyz/hls/RUlEU01Qb0Z2SlZvRzkvcnVZV0FlWXN3eEgyVWJvL0JpYVNjOEg2aTl
 https://vz-1d9210ec-4bd.b-cdn.net:443/93238c6f-ee63-40fa-99df-8ac65315fa82/1080p/video.m3u8
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://static-sg-cdn.eporner.com/thumbs/static4/6/69/696/6966728/3_240.jpg" group-title="SUB-TH",SDMF-008 [SUBTH_UNCEN]
 #EXT-X-PLAYLIST-TYPE:VOD
-https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/30/1743317231WlsjRA9nEp/updated-playlist.m3u8?du=1743323567&height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/30/1743317231WlsjRA9nEp/subtitle/th/subtitle_1743317231WlsjRA9nEp-th-subtitle_main.vtt"
+https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456245683.mp4?url=dmt2ZDM0OS5va2Nkbi5ydS8_c3JjSXA9NDUuODQuMjguNSZwcj00MCZleHBpcmVzPTE3NTIwMTAxMjIzNzYmc3JjQWc9VU5LTk9XTiZmcm9tQ2FjaGU9MSZtcz00NS4xMzYuMjIuMjAwJnR5cGU9NSZzaWc9MU5vZTVJTjFkZzAmY3Q9MCZ1cmxzPTE4NS4yMjYuNTUuMTcwJmNsaWVudFR5cGU9MTQmYXBwSWQ9NTEyMDAwMzg0Mzk3JmlkPTc0NDg2NTM5OTA1MjE&secure=1751550922-S6iZho7B7uCgsxBPszhKVhqFinXLSUxbUIce4TfoO6k%3D&dl=1
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bzGc2.gif" group-title="SUB-TH",IPX-534 [4K TH_UNCEN]
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/30/17433027611QuuLXmCIw/updated-playlist.m3u8?du=1743319178&height=2160&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
