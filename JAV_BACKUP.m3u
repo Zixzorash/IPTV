@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://i.makeagif.com/media/7-03-2025/2C6fNX.gif" group-title="Family",SONE-529[ซับไทย]Yuka Murakami
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/07/03/1751538258y5wIIiqYq1/subtitle/th/subtitle_1751538258y5wIIiqYq1-th-subtitle_main.vtt"
+https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/07/03/1751538258y5wIIiqYq1/updated-playlist.m3u8?du=1751541409&height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://i.makeagif.com/media/7-03-2025/zxKEe8.gif" group-title="Family",ซับไทย [Carib 052317-433] Yuna
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
@@ -411,8 +418,6 @@ https://3bqvdt.sharepoint.com/%2Fsites%2FMediaSharing%2F_layouts%2F15%2Fdownload
 https://fembeqq.xyz/cdn/hls/e23f00ff8372619ce2aa91f01c9c17bd/master.txt?s=1&d=
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.aimgeek.com/images/2024/10/08/240107020601ea8d6.gif" group-title="OTHER AV",SONE-390[THลดเซ็น]Yuka Murakami 
 https://surrit.com:443/3333e963-6c78-4656-9eeb-d6bd30edf61f/1080p/video.m3u8
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://pics.dmm.co.jp/digital/video/sone00529/sone00529jp-14.jpg" group-title="OTHER AV",SONE-529[ซับไทย]Yuka Murakami 
-https://pornsubth.top/quality/x00SFvOJ/1080/
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.aimgeek.com/images/2024/02/26/file127a7.gif" group-title="OTHER AV",SONE-075[ซับไทย ลดเซ็น]Uno Mirei
 https://fembeqv2.xyz/cdn/hls/45c8d8340d70f32de762a77a1a6f7f00/master.txt?s=1&d=
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s3.gifyu.com/images/b2B90.gif" group-title="OTHER AV",SSIS-988[Github]
