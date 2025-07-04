@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://www.imgccc.com/2023/09/28/fa3d338ef15f4.gif" group-title="Family",ADN-188 (RM)
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/ADN-188.vtt"
+https://3652628002.tapecontent.net/radosgw/Vx3bWjvQPpsKWB9/TsR034Niaz3fjuB1Tkzj4Eo8xhe4y0ksDyvTwX-j5ceeQ9VAooiU1S69bVPrxaEjX3vgR0Qjsua0USwf-gIfdw3A7QPTuUrv2j5fe8YOpbr4AQqF9NT_Bs23r2O5tmQJd5nEMh9cyJzOQ0ke0KLl-bkfiPdDGAGYctElshpmHZHxsIde9RSBdihvExOHgr10Szp3ksmrFtkSzDtnVqDwVZSfLKKhuP_x0EqkhfxF10c3pqVAMjHb7Ocy7rGaOs86PSOGmG1ylYcez_1bJKEoqgMBj_97WmqYMhC-4w/adn-188_Mosaic.mp4?stream=1
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/10/16/2401070206012a2de.gif" group-title="Family",[ซับไทย] CAWD-091
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
