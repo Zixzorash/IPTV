@@ -21,14 +21,14 @@ https://3652628002.tapecontent.net/radosgw/Vx3bWjvQPpsKWB9/TsR034Niaz3fjuB1Tkzj4
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/CAWD-091.vtt"
 https://cdn-pr.pvvstream.pro/videos/1080/505327928_456239175.mp4?url=dmt2ZDUzMC5va2Nkbi5ydS8_ZXhwaXJlcz0xNzUxODIwOTcwNjE3JnNyY0lwPTQ1Ljg0LjMxLjEwNyZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTE4NS4yMjYuNTUuMTY4JnR5cGU9NSZzaWc9VGZlSDhYTFo0LXcmY3Q9MCZ1cmxzPTQ1LjEzNi4yMC4xOTYmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NTk5NDE5NDkzMDIzMg&secure=1751561770-6W9sUCgV1%2FixkRK6LOmD7jHjP6vFKZCgrlL0TSwaSC8%3D&dl=1
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://www.amazon.com/photos/shared/DbfOWWkQT06Ta7-PCIUbvw.PRb7FdzXE34I5fxnTRtpXS/gallery/l6C3UQzOTBK5o2c1u1YDJg" group-title="Family",SONE-529[ซับไทย]Yuka Murakami
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.anh.moe/f/kufGpzhW.gif" group-title="Family",SONE-529[ซับไทย]Yuka Murakami
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/07/03/1751538258y5wIIiqYq1/subtitle/th/subtitle_1751538258y5wIIiqYq1-th-subtitle_main.vtt"
 https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/07/03/1751538258y5wIIiqYq1/updated-playlist.m3u8?du=1751541409&height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://i.makeagif.com/media/7-03-2025/zxKEe8.gif" group-title="Family",ซับไทย [Carib 052317-433] Yuna
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.anh.moe/f/LDFUeAG.gif" group-title="Family",ซับไทย [Carib 052317-433] Yuna
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
