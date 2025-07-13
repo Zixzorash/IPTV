@@ -6,7 +6,7 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/T38-015_TH_shifted_shifted.vtt"
 https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/07/04/1751638639WIrNJdr7rR/updated-playlist.m3u8?du=1751642693&height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="Movies tvg-name"ADN-188 [SubTH]" tvg-logo="https://www.imgccc.com/2023/09/28/fa3d338ef15f4.gif" group-title="Tsumugi-Akari",ADN-188 [SubTH]
+#EXTINF:-1 tvg-type="Movies tvg-name"ADN-188 [SubTH]" tvg-logo="https://iili.io/FVH9Xyb.gif" group-title="Tsumugi-Akari",ADN-188 [SubTH]
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
