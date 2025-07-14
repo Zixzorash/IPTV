@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-type="movies" tvg-name"SONE-389 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/10/file5212e.gif" group-title="Rei-Kuroshima",SONE-389 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/SONE-389TH.vtt"
 https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456245162.mp4?url=dmt2ZDQ0MC5va2Nkbi5ydS8_ZXhwaXJlcz0xNzUyNzM0MjcyNTg0JnNyY0lwPTQ1Ljg0LjI4LjE1OSZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTQ1LjEzNi4yMS4xNjEmdHlwZT01JnNpZz05NGhoNDZtWGY0ZyZjdD0wJnVybHM9MTg1LjIyNi41My4xNzEmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NzQyMTA4NzE4OTU3OQ&secure=1752475072-ey%2FkNk7WPyQOOr0DRZlDz7VQHRkRRSGYgOo9A5Zujrg%3D&dl=1
 
 #EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-050 [SubTH]" tvg-logo="https://iili.io/FVcjDD7.gif" group-title="Momo-Sakura",IPZZ-050 [SubTH]
