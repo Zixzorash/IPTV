@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movies" tvg-name"ABW-321 [SubTH]" tvg-logo="" group-title="Marin-Mita",ABW-321 [SubTH]
+#EXTINF:-1 tvg-type="movies" tvg-name"ABW-321 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/25/2401070206015d089.gif" group-title="Umi-Yatsugake",ABW-321 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/ABW-321%20%5BSubTH%5D.vtt"
