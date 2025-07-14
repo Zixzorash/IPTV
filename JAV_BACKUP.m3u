@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name"SONE-238 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/07/21/filea9dca.gif" group-title="Nanaka-Kosaka",SONE-238 [SubTH]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/SONE-238.vtt"
+https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456243924.mp4?url=dmt2ZDQ1NC5va2Nkbi5ydS8_ZXhwaXJlcz0xNzUyNzM5ODc3NTMwJnNyY0lwPTQ1Ljg0LjI4LjE5OSZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTQ1LjEzNi4yMC4xOTkmdHlwZT01JnNpZz1GY3NvZ0NoZV9WdyZjdD0wJnVybHM9MTg1LjIyNi41Mi4xMzgmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NzA0MTc4OTg1NjM2Mw&secure=1752480677-UgB7kQmek1tvGZsBPF2XWwHHp2Qr%2FXqhVcfE%2FehzCWw%3D&dl=1
+
 #EXTINF:-1 tvg-type="movies" tvg-name"SONE-389 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/10/file5212e.gif" group-title="Rei-Kuroshima",SONE-389 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
