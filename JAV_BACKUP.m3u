@@ -10,7 +10,7 @@ https://cdn.turboviplay.com/data2/6642f0dad3573/6642f0dad3573.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/SONE-347.vtt"
-https://asset.fembed.co/master/th/qf6yqok4r0.m3u8
+https://vz-1d9210ec-4bd.b-cdn.net/79a7b834-670e-4314-8979-86522d978c0e/playlist.m3u8?height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
 #EXTINF:-1 tvg-type="movies" tvg-name"MIDV-787 [SubTH]" tvg-logo="https://cdn.xsimg.com/images/2024/12/04/2401070206014b25a.gif" group-title="Mia-Nanasawa",MIDV-787 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
