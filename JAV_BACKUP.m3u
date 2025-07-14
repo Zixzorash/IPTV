@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-type="movies" tvg-name"[SubTH] SONE-388 ครูขาสวย" tvg-logo="https://img.2048.spa/images/2024/10/06/file85c39.gif" group-title="Mitsuha-Ashitaba",[SubTH] SONE-388 ครูขาสวย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/SONE-388.vtt"
-https://cdn4.turboviplay.com/data1/6704b26b676ef/6704b26b676ef.m3u8
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+https://vz-1d9210ec-4bd.b-cdn.net/4d5c4d29-e9e5-4b6b-a4ab-04821fea96d1/playlist.m3u8?height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
 #EXTINF:-1 tvg-type="movies" tvg-name"SONE-238 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/07/21/filea9dca.gif" group-title="Nanaka-Kosaka",SONE-238 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
