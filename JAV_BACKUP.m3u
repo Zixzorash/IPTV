@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-641 [TH SUB]" tvg-logo="" group-title="Saki-Sasaki",IPZZ-641 [TH SUB]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+
+
 #EXTINF:-1 tvg-type="movies" tvg-name"Exciting Sex [Ranako]" tvg-logo="https://iili.io/FWGTDjS.gif" group-title="Ranako",Exciting Sex [Ranako]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
