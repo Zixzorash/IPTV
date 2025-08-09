@@ -1,20 +1,5 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: https://g89.turbosplayer.com/video/e9198e62-94bb-4b01-9028-1b076def78f1/master.html
-Subject: 
-Date: Sun, 10 Aug 2025 01:31:24 +0700
-MIME-Version: 1.0
-Content-Type: multipart/related;
-	type="text/html";
-	boundary="----MultipartBoundary--G1Q0Ev4obFNfu4I27AauN0V3VdWAdFSy7UEbiD2nty----"
+#EXTM3U
 
-
-------MultipartBoundary--G1Q0Ev4obFNfu4I27AauN0V3VdWAdFSy7UEbiD2nty----
-Content-Type: text/html
-Content-ID: <frame-8FF28CD0DF6619F98208D01F8FFEE4B3@mhtml.blink>
-Content-Transfer-Encoding: binary
-Content-Location: https://g89.turbosplayer.com/video/e9198e62-94bb-4b01-9028-1b076def78f1/master.html
-
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
@@ -2065,3 +2050,4 @@ https://g89.turbosplayer.com/video/e9198e62-94bb-4b01-9028-1b076def78f1/chunk/fa
 #EXT-X-ENDLIST
 </body></html>
 ------MultipartBoundary--G1Q0Ev4obFNfu4I27AauN0V3VdWAdFSy7UEbiD2nty------
+
