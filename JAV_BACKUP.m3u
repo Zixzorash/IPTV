@@ -34,7 +34,7 @@ https://gdplayer.to/embed/ipzz641
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/52a6dd7b-67e2-4033-b728-66d4e7b167d5/playlist.m3u8?height=2160&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"CUS-1547 [TH SUB]" tvg-logo="https://iili.io/FWB1FZ7.gif" group-title="Ranako" tvg-player="jwplayer",CUS-1547 [TH SUB]
+#EXTINF:-1 tvg-type="movies" tvg-name"CUS-1547 [TH SUB]" tvg-logo="https://iili.io/KHM9dJf.gif" group-title="Ranako" tvg-player="jwplayer",CUS-1547 [TH SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
