@@ -1,114 +1,114 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movies" tvg-name"JUL-784 [TH]" tvg-logo="https://iili.io/KHPTcbf.gif" group-title="Mina-Kitano" tvg-player="videojs",JUL-784 [TH]
+#EXTINF:-1 tvg-type="movies" tvg-name="JUL-784 [TH]" tvg-logo="https://iili.io/KHPTcbf.gif" group-title="Mina-Kitano" tvg-player="videojs",JUL-784 [TH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/JUL-784.vtt"
 https://surrit.com/4e67aafc-3df5-48a0-b5c8-a8325a2ee5ae/playlist.m3u8?dl=1
 
-#EXTINF:-1 tvg-type="movies" tvg-name"SONE-207 [TH-SUB]" tvg-logo="https://ie2.javquick.com/media/4VwfMrpD4bloyEMsdLdSGoIHApS9zoTwasmnm3wEuI0.jpg" group-title="Rie-Miyagi" tvg-player="jwplayer",SONE-207 [TH-SUB]
+#EXTINF:-1 tvg-type="movies" tvg-name="SONE-207 [TH-SUB]" tvg-logo="https://ie2.javquick.com/media/4VwfMrpD4bloyEMsdLdSGoIHApS9zoTwasmnm3wEuI0.jpg" group-title="Rie-Miyagi" tvg-player="jwplayer",SONE-207 [TH-SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://cdn3.turboviplay.com/data2/665b69ec4b87a/665b69ec4b87a.m3u8
 https://fc2stream.tv/stream/zUAdlYFJiKSvtMVmyLuISg/kjhhiuahiuhgihdf/1755993986/19913278/master.m3u8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"MIDA-239 [ซับไทย]" tvg-logo="https://pic.ylimg.com/images/2025/08/18/2401070206014e520.gif" group-title="Mia-Nanazawa" tvg-player="videojs",MIDA-239 [ซับไทย]
+#EXTINF:-1 tvg-type="movies" tvg-name="MIDA-239 [ซับไทย]" tvg-logo="https://pic.ylimg.com/images/2025/08/18/2401070206014e520.gif" group-title="Mia-Nanazawa" tvg-player="videojs",MIDA-239 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://smartkhabrinewssmartkhabrinews2.smartkhabrinews.com/hls2/01/00064/w1j9eggp0skg_o/master.m3u8?t=k33_69q9MT4mMjYUYGs9MBIhH-pkrI5-f9cg3O2aG30&s=1755934695&e=18000&f=323450&i=0.0&sp=5000
 https://vidmoly.net/embed-rp2z3jvfzla6.html
 
-#EXTINF:-1 tvg-type="movies" tvg-name"MEYD-951" tvg-logo="https://img.2048.spa/images/2024/12/15/file22cef.gif" group-title="Yumemi-Kanae" tvg-player="jwplayer",MEYD-951 (TH SUB)
+#EXTINF:-1 tvg-type="movies" tvg-name="MEYD-951" tvg-logo="https://img.2048.spa/images/2024/12/15/file22cef.gif" group-title="Yumemi-Kanae" tvg-player="jwplayer",MEYD-951 (TH SUB)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/MEYD-951.vtt"
 https://vost-203-d.getromes.space/hls/,xqx2poe2znokjiqbtg5sd72evmzgkjxbwkaverf57w44qh7dxz5m7y5vvekq,.urlset/master.m3u8
 https://vidmoly.net/embed-60zaj49rejd6.html
 
-#EXTINF:-1 tvg-type="movie" tvg-name"JUR-271 เย็ดแม่เลี้ยง" tvg-logo="https://img.2048.spa/images/2025/03/22/24010702060121533.gif" group-title="Mina-Kitano" tvg-player="videojs",JUR-271 เย็ดแม่เลี้ยง
+#EXTINF:-1 tvg-type="movie" tvg-name="JUR-271 เย็ดแม่เลี้ยง" tvg-logo="https://img.2048.spa/images/2025/03/22/24010702060121533.gif" group-title="Mina-Kitano" tvg-player="videojs",JUR-271 เย็ดแม่เลี้ยง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/05/14/1747265293PEQqDUzcGy/subtitle/th/subtitle_1747265293PEQqDUzcGy-th-subtitle_main.vtt"
 https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared Documents/AV SUBTHAI - เอวี ซับไทย/[Mosaic] JUR-271 เผลอเอากับแม่เลี้ยง.mp4
 https://gdplayer.to/embed/JUR271
 
-#EXTINF:-1 tvg-type="movies" tvg-name"PRED-403 [TH SUB]" tvg-logo="https://img.2048.spa/images/2024/11/16/24010702060102054.gif" group-title="Karen-Yuzuriha" tvg-player="videojs",PRED-403 [TH SUB]
+#EXTINF:-1 tvg-type="movies" tvg-name="PRED-403 [TH SUB]" tvg-logo="https://img.2048.spa/images/2024/11/16/24010702060102054.gif" group-title="Karen-Yuzuriha" tvg-player="videojs",PRED-403 [TH SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/PRED-403.vtt"
 https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI%20-%20%E0%B9%80%E0%B8%AD%E0%B8%A7%E0%B8%B5%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2/PRED-403.mp4
 https://gdplayer.to/embed/pred403
 
-#EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-641 [TH SUB]" tvg-logo="https://iili.io/FLBHIig.gif" group-title="Saki-Sasaki" tvg-player="videojs",IPZZ-641 [TH SUB]
+#EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-641 [TH SUB]" tvg-logo="https://iili.io/FLBHIig.gif" group-title="Saki-Sasaki" tvg-player="videojs",IPZZ-641 [TH SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI%20-%20%E0%B9%80%E0%B8%AD%E0%B8%A7%E0%B8%B5%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2/IPZZ-641%5BTH%20SUB%5D.mp4
 https://gdplayer.to/embed/ipzz641
 
-#EXTINF:-1 tvg-type="movies" tvg-name"Exciting Sex [Ranako]" tvg-logo="https://iili.io/FWGTDjS.gif" group-title="Ranako" tvg-player="jwplayer",Exciting Sex [Ranako]
+#EXTINF:-1 tvg-type="movies" tvg-name="Exciting Sex [Ranako]" tvg-logo="https://iili.io/FWGTDjS.gif" group-title="Ranako" tvg-player="jwplayer",Exciting Sex [Ranako]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/52a6dd7b-67e2-4033-b728-66d4e7b167d5/playlist.m3u8?height=2160&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"CUS-1547 [TH SUB]" tvg-logo="https://iili.io/KHM9dJf.gif" group-title="Ranako" tvg-player="jwplayer",CUS-1547 [TH SUB]
+#EXTINF:-1 tvg-type="movies" tvg-name="CUS-1547 [TH SUB]" tvg-logo="https://iili.io/KHM9dJf.gif" group-title="Ranako" tvg-player="jwplayer",CUS-1547 [TH SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/eff658f6-78f8-42b4-be5c-9953bc0fb44e/1080p/video.m3u8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"[SubTH] SONE-388 ครูขาสวย" tvg-logo="https://img.2048.spa/images/2024/10/06/file85c39.gif" group-title="Mitsuha-Ashitaba" tvg-player="jwplayer",[SubTH] SONE-388 ครูขาสวย
+#EXTINF:-1 tvg-type="movies" tvg-name="[SubTH] SONE-388 ครูขาสวย" tvg-logo="https://img.2048.spa/images/2024/10/06/file85c39.gif" group-title="Mitsuha-Ashitaba" tvg-player="jwplayer",[SubTH] SONE-388 ครูขาสวย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/4d5c4d29-e9e5-4b6b-a4ab-04821fea96d1/playlist.m3u8?height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"SONE-238 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/07/21/filea9dca.gif" group-title="Nanaka-Kosaka" tvg-player="jwplayer",SONE-238 [SubTH]
+#EXTINF:-1 tvg-type="movies" tvg-name="SONE-238 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/07/21/filea9dca.gif" group-title="Nanaka-Kosaka" tvg-player="jwplayer",SONE-238 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/SONE-238.vtt"
 https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456243924.mp4?url=dmt2ZDQ4NS5va2Nkbi5ydS8_ZXhwaXJlcz0xNzU2MTcwMTQ4MTM3JnNyY0lwPTQ1Ljg0LjMxLjEyMCZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTQ1LjEzNi4yMi4xNTcmdHlwZT01JnNpZz1NZllDSm4weFZucyZjdD0wJnVybHM9NDUuMTM2LjIwLjIwNiZjbGllbnRUeXBlPTE0JmFwcElkPTUxMjAwMDM4NDM5NyZpZD03MDQxNzg5ODU2MzYz&secure=1755910948-ATeP4M%2Fn87ZEge2mIqyPNKA7sv3ps2tI1tPCYC4mx54%3D&dl=1
 
-#EXTINF:-1 tvg-type="movies" tvg-name"SONE-389 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/10/file5212e.gif" group-title="Rei-Kuroshima" tvg-player="jwplayer",SONE-389 [SubTH]
+#EXTINF:-1 tvg-type="movies" tvg-name="SONE-389 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/10/file5212e.gif" group-title="Rei-Kuroshima" tvg-player="jwplayer",SONE-389 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/SONE-389TH.vtt"
 https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456245162.mp4?url=dmt2ZDUxNi5va2Nkbi5ydS8_ZXhwaXJlcz0xNzU2MTcwNDA0NTk2JnNyY0lwPTQ1Ljg0LjI4LjQmcHI9NDAmc3JjQWc9VU5LTk9XTiZtcz0xODUuMjI2LjU1LjE1NCZ0eXBlPTUmc2lnPUtVNlJpRkZSOFU4JmN0PTAmdXJscz0xODUuMjI2LjUzLjE2MiZjbGllbnRUeXBlPTE0JmFwcElkPTUxMjAwMDM4NDM5NyZpZD03NDIxMDg3MTg5NTc5&secure=1755911204-Moz%2Frh87tNuq7R98%2FssVYfjYtveQeb4P1fpkZxh9KQc%3D&dl=1
 
-#EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-050 [SubTH]" tvg-logo="https://iili.io/FVcjDD7.gif" group-title="Momo-Sakura" tvg-player="jwplayer",IPZZ-050 [SubTH]
+#EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-050 [SubTH]" tvg-logo="https://iili.io/FVcjDD7.gif" group-title="Momo-Sakura" tvg-player="jwplayer",IPZZ-050 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/c03cf220-81b7-40c5-9196-5c173e66cb16/playlist.m3u8?height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"ABW-321 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/25/2401070206015d089.gif" group-title="Umi-Yatsugake" tvg-player="jwplayer",ABW-321 [SubTH]
+#EXTINF:-1 tvg-type="movies" tvg-name="ABW-321 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/25/2401070206015d089.gif" group-title="Umi-Yatsugake" tvg-player="jwplayer",ABW-321 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/04/15/1744728287EEDSpEGNkn/subtitle/en/subtitle_1744728287EEDSpEGNkn-en-subtitle_main.vtt"
 https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/04/15/1744728287EEDSpEGNkn/updated-playlist.m3u8?du=1744738339&height=1440&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"SONE-191 [SubTH]" tvg-logo="https://iili.io/FVAqYXI.gif" group-title="Marin-Mita" tvg-player="jwplayer",SONE-191 [SubTH]
+#EXTINF:-1 tvg-type="movies" tvg-name="SONE-191 [SubTH]" tvg-logo="https://iili.io/FVAqYXI.gif" group-title="Marin-Mita" tvg-player="jwplayer",SONE-191 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/cc0dac00-8f19-477f-9294-d02b9bd49ef6/playlist.m3u8?height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"SONE-347 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/09/08/file78c0b.gif" group-title="Marin-Mita" tvg-player="jwplayer",SONE-347 [SubTH]
+#EXTINF:-1 tvg-type="movies" tvg-name="SONE-347 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/09/08/file78c0b.gif" group-title="Marin-Mita" tvg-player="jwplayer",SONE-347 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/SONE-347.vtt"
 https://vz-1d9210ec-4bd.b-cdn.net/79a7b834-670e-4314-8979-86522d978c0e/playlist.m3u8?height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"MIDV-787 [SubTH]" tvg-logo="https://cdn.xsimg.com/images/2024/12/04/2401070206014b25a.gif" group-title="Mia-Nanasawa" tvg-player="jwplayer",MIDV-787 [SubTH]
+#EXTINF:-1 tvg-type="movies" tvg-name="MIDV-787 [SubTH]" tvg-logo="https://cdn.xsimg.com/images/2024/12/04/2401070206014b25a.gif" group-title="Mia-Nanasawa" tvg-player="jwplayer",MIDV-787 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/MIDV-787.vtt"
 https://vz-1d9210ec-4bd.b-cdn.net/a9c03bcf-6eb9-4f96-b622-3fb187e450de/playlist.m3u8?height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="Movies" tvg-name"T38-015 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/08/23/240107020601e7117.gif" group-title="EMI-NISHINO" tvg-player="jwplayer",[RM] T38-015 (EMI NISHINO)
+#EXTINF:-1 tvg-type="Movies" tvg-name="T38-015 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/08/23/240107020601e7117.gif" group-title="EMI-NISHINO" tvg-player="jwplayer",[RM] T38-015 (EMI NISHINO)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/T38-015_TH_shifted_shifted.vtt"
@@ -121,13 +121,13 @@ https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/07/04
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/84fd0cb3-9c84-4556-93f9-161c670ac08f/playlist.m3u8?height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"CAWD-091 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/16/2401070206012a2de.gif" group-title="Mayuki-Itou" tvg-player="jwplayer",[SubTH] CAWD-091
+#EXTINF:-1 tvg-type="movies" tvg-name="CAWD-091 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/16/2401070206012a2de.gif" group-title="Mayuki-Itou" tvg-player="jwplayer",[SubTH] CAWD-091
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/CAWD-091.vtt"
 https://cdn-pr.pvvstream.pro/videos/1080/505327928_456239175.mp4?url=dmt2ZDUzMC5va2Nkbi5ydS8_ZXhwaXJlcz0xNzUxODIwOTcwNjE3JnNyY0lwPTQ1Ljg0LjMxLjEwNyZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTE4NS4yMjYuNTUuMTY4JnR5cGU9NSZzaWc9VGZlSDhYTFo0LXcmY3Q9MCZ1cmxzPTQ1LjEzNi4yMC4xOTYmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NTk5NDE5NDkzMDIzMg&secure=1751561770-6W9sUCgV1%2FixkRK6LOmD7jHjP6vFKZCgrlL0TSwaSC8%3D&dl=1
 
-#EXTINF:-1 tvg-type="movies" tvg-name"SONE-529 [SubTH]" tvg-logo="https://cdn.anh.moe/f/kufGpzhW.gif" group-title="Yuka-Murakami" tvg-player="jwplayer",SONE-529[ซับไทย]Yuka Murakami
+#EXTINF:-1 tvg-type="movies" tvg-name="SONE-529 [SubTH]" tvg-logo="https://cdn.anh.moe/f/kufGpzhW.gif" group-title="Yuka-Murakami" tvg-player="jwplayer",SONE-529[ซับไทย]Yuka Murakami
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/07/03/1751538258y5wIIiqYq1/subtitle/th/subtitle_1751538258y5wIIiqYq1-th-subtitle_main.vtt"
@@ -252,7 +252,7 @@ https://cdn1.turboviplay.com/data1/67ed35fb2383c/67ed35fb2383c.m3u8?seo_title=CJ
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/IPZZ-039.vtt"
 https://www.xasiat.com/get_file/11/76bfb193de37d82ee0bc908dd318e6a0a4940e7309/25000/25350/25350_source.mp4?br=3505&rnd=1751061122555&dl=1
 
-#EXTINF:-1 tvg-type="Movies" tvg-name"SONE-157 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/04/20/file0b2c3.gif" group-title="Mirei-Uno",SONE-157 [SubTH]
+#EXTINF:-1 tvg-type="Movies" tvg-name="SONE-157 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/04/20/file0b2c3.gif" group-title="Mirei-Uno",SONE-157 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/SONE-157-th.vtt"
@@ -619,7 +619,7 @@ https://vz-1d9210ec-4bd.b-cdn.net:443/b3703262-234e-4fc0-ac86-fc5276335c37/1080p
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://pics.dmm.co.jp/digital/video/1sw00331/1sw00331jp-5.jpg" group-title="SUB-TH",SW-331 (Sana Mizuhara)
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/8e0219d8-bbb8-4d95-b37c-6b21bdd8ef6d/1080p/video.m3u8
-#EXTINF:-1 tvg-type="Movies" tvg-name"IPZZ-343 [SubTH]" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/ipzz343/ipzz343pl.jpg" group-title="Tsumugi-Akari",IPZZ-343 (Akari Tsumugi)
+#EXTINF:-1 tvg-type="Movies" tvg-name="IPZZ-343 [SubTH]" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/ipzz343/ipzz343pl.jpg" group-title="Tsumugi-Akari",IPZZ-343 (Akari Tsumugi)
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/09/1741562621UjuDWFRZDh/subtitle/th/subtitle_1741562621UjuDWFRZDh-th-subtitle_main.vtt"
 https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/09/1741562621UjuDWFRZDh/updated-playlist.m3u8
