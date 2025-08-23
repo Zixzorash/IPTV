@@ -127,14 +127,14 @@ https://vz-1d9210ec-4bd.b-cdn.net/66ba356c-1042-4132-97c4-419048339425/playlist.
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/07/04/1751619631PPJGKzuBwh/subtitle/th/subtitle_1751619631PPJGKzuBwh-th-subtitle_main.vtt"
 https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/07/04/1751619631PPJGKzuBwh/updated-playlist.m3u8?du=1751623268&height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.anh.moe/f/S9DxrD.gif" group-title="Family",ADN-046 Forgive (RM)
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.anh.moe/f/S9DxrD.gif" group-title="Family" tvg-player="jwplayer",ADN-046 Forgive (RM)
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/ADN-046.vtt"
 https://908357231.tapecontent.net/radosgw/rgXabgAoLKSaVv/5haHmQK9alQ8eCuOhrYJEbq4ykRlPjl6n1OKeYmr_0jA51t8sEoy9hIU_uH6ipO4hXh8vNug5RIxB40E8Op6w7ImDwd7peZ6t73rub7GqCmEwsZ5Cybjavxe_hClLIUdtkJmszkCo7a4NUW8oigHTTMxYKLvvDwd3nfkSsZqJrwEQ1R_0wpWTkPNgCXHNvKnDhFU7MCKE_9vdBGDaSQd37DHuGS8ROCIXiYnJ9GgHzJe1tq2Ya06NiqoZhvNY11U_G85eQlovhhm915c/adn-046-u.mp4?stream=1
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://image.playno1.com/images/2023/02/16/d7c3d2e03716dbcb2b0074ab5235c6e1.gif" group-title="sweet", TWITTER
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://image.playno1.com/images/2023/02/16/d7c3d2e03716dbcb2b0074ab5235c6e1.gif" group-title="sweet" tvg-player="jwplayer", TWITTER
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
