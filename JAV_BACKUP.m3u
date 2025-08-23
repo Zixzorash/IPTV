@@ -5,6 +5,7 @@
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://cdn3.turboviplay.com/data2/665b69ec4b87a/665b69ec4b87a.m3u8
+https://fc2stream.tv/stream/zUAdlYFJiKSvtMVmyLuISg/kjhhiuahiuhgihdf/1755993986/19913278/master.m3u8
 
 #EXTINF:-1 tvg-type="movies" tvg-name"MIDA-239 [ซับไทย]" tvg-logo="https://pic.ylimg.com/images/2025/08/18/2401070206014e520.gif" group-title="Mia-Nanazawa" tvg-player="videojs",MIDA-239 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
