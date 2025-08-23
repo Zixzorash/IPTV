@@ -120,7 +120,7 @@ https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/07/03
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/66ba356c-1042-4132-97c4-419048339425/playlist.m3u8?height=1080&userid=1&video_version=2.8&platform=zixzorash&default_source=2.8
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/02/22/filef52ee.gif" group-title="Family",SDMF-016 Virginity (RM)
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/02/22/filef52ee.gif" group-title="Family" tvg-player="jwplayer",SDMF-016 Virginity (RM)
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
