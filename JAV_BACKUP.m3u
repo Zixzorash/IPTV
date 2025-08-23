@@ -141,7 +141,7 @@ https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456241360.mp4?url=dmt2ZDU0Mi
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/06/27/1751027334BnT1liIbaO/subtitle/th/subtitle_1751027334BnT1liIbaO-th-subtitle_main.vtt"
 https://video.twimg.com/amplify_video/1871984628720164864/vid/avc1/1280x720/0_jmi9w1AbbiycA9.mp4?tag=14
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://pic.ylimg.com/images/2025/05/15/2401070206015b3f7.gif" group-title="Family",MKMP-636 รักน้องสะใภ้
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://pic.ylimg.com/images/2025/05/15/2401070206015b3f7.gif" group-title="Family" tvg-player="jwplayer",MKMP-636 รักน้องสะใภ้
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
