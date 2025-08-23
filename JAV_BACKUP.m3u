@@ -52,11 +52,11 @@ https://vz-1d9210ec-4bd.b-cdn.net/4d5c4d29-e9e5-4b6b-a4ab-04821fea96d1/playlist.
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/SONE-238.vtt"
 https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456243924.mp4?url=dmt2ZDQ4NS5va2Nkbi5ydS8_ZXhwaXJlcz0xNzU2MTcwMTQ4MTM3JnNyY0lwPTQ1Ljg0LjMxLjEyMCZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTQ1LjEzNi4yMi4xNTcmdHlwZT01JnNpZz1NZllDSm4weFZucyZjdD0wJnVybHM9NDUuMTM2LjIwLjIwNiZjbGllbnRUeXBlPTE0JmFwcElkPTUxMjAwMDM4NDM5NyZpZD03MDQxNzg5ODU2MzYz&secure=1755910948-ATeP4M%2Fn87ZEge2mIqyPNKA7sv3ps2tI1tPCYC4mx54%3D&dl=1
 
-#EXTINF:-1 tvg-type="movies" tvg-name"SONE-389 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/10/file5212e.gif" group-title="Rei-Kuroshima",SONE-389 [SubTH]
+#EXTINF:-1 tvg-type="movies" tvg-name"SONE-389 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/10/10/file5212e.gif" group-title="Rei-Kuroshima" tvg-player="jwplayer",SONE-389 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/SONE-389TH.vtt"
-https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456245162.mp4?url=dmt2ZDQ0MC5va2Nkbi5ydS8_ZXhwaXJlcz0xNzUyNzM0MjcyNTg0JnNyY0lwPTQ1Ljg0LjI4LjE1OSZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTQ1LjEzNi4yMS4xNjEmdHlwZT01JnNpZz05NGhoNDZtWGY0ZyZjdD0wJnVybHM9MTg1LjIyNi41My4xNzEmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NzQyMTA4NzE4OTU3OQ&secure=1752475072-ey%2FkNk7WPyQOOr0DRZlDz7VQHRkRRSGYgOo9A5Zujrg%3D&dl=1
+https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456245162.mp4?url=dmt2ZDUxNi5va2Nkbi5ydS8_ZXhwaXJlcz0xNzU2MTcwNDA0NTk2JnNyY0lwPTQ1Ljg0LjI4LjQmcHI9NDAmc3JjQWc9VU5LTk9XTiZtcz0xODUuMjI2LjU1LjE1NCZ0eXBlPTUmc2lnPUtVNlJpRkZSOFU4JmN0PTAmdXJscz0xODUuMjI2LjUzLjE2MiZjbGllbnRUeXBlPTE0JmFwcElkPTUxMjAwMDM4NDM5NyZpZD03NDIxMDg3MTg5NTc5&secure=1755911204-Moz%2Frh87tNuq7R98%2FssVYfjYtveQeb4P1fpkZxh9KQc%3D&dl=1
 
 #EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-050 [SubTH]" tvg-logo="https://iili.io/FVcjDD7.gif" group-title="Momo-Sakura",IPZZ-050 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
