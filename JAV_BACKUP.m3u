@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movies" tvg-name="FC2PPV-3121790" tvg-logo="https://img.2048.spa/images/2024/08/03/file30a1e.gif" group-title="FC2" tvg-player="jwplayer",FC2PPV-3121790 [TH-SUB]
+#EXTINF:-1 tvg-type="movies" tvg-name="FC2PPV-3121790 (1)" tvg-logo="https://img.2048.spa/images/2024/08/03/file30a1e.gif" group-title="FC2" tvg-player="jwplayer",FC2PPV-3121790 [TH-SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
