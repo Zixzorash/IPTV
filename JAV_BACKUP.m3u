@@ -819,7 +819,7 @@ https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8
 
-#EXTINF:-1 tvg-type="movies" tvg-name="FC2PPV-3121790 (2)" tvg-logo="https://img.2048.spa/images/2024/08/03/file30a1e.gif" group-title="FC2" tvg-player="jwplayer",FC2PPV-3121790 [2]
+#EXTINF:-1 tvg-type="movies" tvg-name="FC2PPV-3121790 (2)" tvg-logo="https://img.2048.spa/images/2024/08/03/file30a1e.gif" group-title="FC2" tvg-player="videojs",FC2PPV-3121790 [2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
