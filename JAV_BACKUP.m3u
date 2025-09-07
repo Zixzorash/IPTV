@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย" tvg-logo="https://pics.dmm.co.jp/digital/video/ipzz00651/ipzz00651jp-4.jpg" group-title="Momo-Sakura" tvg-player="jwplayer",IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย
+#EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย" tvg-logo="https://iili.io/KoNEtcJ.gif" group-title="Momo-Sakura" tvg-player="jwplayer",IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/IPZZ-651.vtt"
