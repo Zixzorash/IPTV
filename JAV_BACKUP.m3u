@@ -12,7 +12,7 @@ https://iteraplay.tera-api10.workers.dev/fast_stream?token=eyJ1cmwiOiJodHRwczpcL
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://571561.gvideo.io/videos/571561_JPXMDKONRbLuo99I/master.m3u8
-https://571561.gvideo.io/videos/571561_JPXMDKONRbLuo99I/index-s0q3567v1-v1-a1.m3u8
+http://205.185.119.188:30080/stream?payload=bKePGwPtgobInOYpCFDM3fJvezmphBAWSTcHB1CPPLW7_WYMhl3W6lQHAdTC-V-mGayaGxUFb-ftrdTzP6D3Tdi2-va2AUs_zE1l6ugc3ZJ5-H8pLS_KIogRhhEAJsz-aMzf6K2qAIPzABbM0xT6wWW89EKaozsOcvE5y58xheK_1NybnZD8CsTZgFPO6DJNpj4lXGy-_lHgeWUYDsz-4AAe7Fcw4mflilG9FCEae1zel9km4rVG43CPRhb1ZCHINvMhV4UpXN805YwuNVht4HJJbclOrkUC7BcDmIbcuYKx6-ZjcSUEIXd1OamLk1TUhWt6TYXpESEC558YSH57353W2R9Jve4ssceCwbPb77lT5Hhovms31uM2jNekPlt7c2xzoI5lW5OPZbvkpNtNd46ZWJL0DfqUlanSuoEogMJYtVZQfTVuw8lpuf0SNdCml3TocFEGT_cxAyOFEL1fUrsSVF9yO8OJAYZtzyQf86FRK7Y9igKSlVCqQ4RGLOSL5c876nRzLyn-2giT8JwiQyTU8Syjn6fTUcJTJ-JdH0_FRyAHjXFtVem-qXAmgXihN0o8R2Slt8lWFp3VqjMVbLq9R9P_Mo5P3GuLtwDIiOZX0KA9K_b05cWFhyyHJ5zIbQHse9WRW3B7m24mjovEPXu2UDMqxZY4miP61Mlv2bx3To2R2VFxyiBTEBr3y5lOkBOS-d-rFRfYTLUZA466PqXnTaPJxA7H_BIFnVYQoRwJE5-mV2aUrc24CUOr2NY-gchPYm0RyEqSGrRyV-Tih22oxKDNhJv4eVQ24kkRie6npjtA550fqNEldubGrPxDK4W-FanJlZXzNkmywIawN678Ly3ZRI--p6fz4NQhly-l3wJQhkAeB3QkV1OPQ8Eh
 
 #EXTINF:-1 tvg-type="movies" tvg-name="SONE-836 [TH-SUB]" tvg-logo="https://iili.io/KJBRQSa.gif" group-title="Marin-Mita" tvg-player="jwplayer",SONE-836 [TH-SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
