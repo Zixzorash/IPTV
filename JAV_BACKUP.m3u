@@ -16,7 +16,7 @@ https://cdn4.turboviplay.com/data1/689b39d11bcf9/689b39d11bcf9.m3u8
 #EXTINF:-1 tvg-type="movies" tvg-name"MNGS-021 [TH SUB]" tvg-logo="https://iili.io/KxD6r7f.gif" group-title="Akane-Mitani" tvg-player="jwplayer",MNGS-021 [TH SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/MNGS-201(TH-Gemini).vtt"
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/MNGS-021(TH).vtt"
 https://cdn4.turboviplay.com/data1/68a08fa1e8509/68a08fa1e8509.m3u8
 
 #EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย" tvg-logo="https://iili.io/KoNEtcJ.gif" group-title="Momo-Sakura" tvg-player="jwplayer",IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย
