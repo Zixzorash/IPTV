@@ -74,11 +74,11 @@ https://cdn4.turboviplay.com/data1/689b39d11bcf9/689b39d11bcf9.m3u8
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="English",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=NO, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/MNGS-021(TH-Gemini).srt"
 https://cdn4.turboviplay.com/data1/68a08fa1e8509/68a08fa1e8509.m3u8
 
-#EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย" tvg-logo="https://iili.io/KoNEtcJ.gif" group-title="Momo-Sakura" tvg-player="jwplayer",IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย
+#EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย" tvg-logo="https://iili.io/KoNEtcJ.gif" group-title="Momo-Sakura" tvg-player="videojs",IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/IPZZ-651(TH-GMN).vtt"
-https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI%20-%20%E0%B9%80%E0%B8%AD%E0%B8%A7%E0%B8%B5%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2/IPZZ-651(TH-60fps).mp4
+https://vkvd438.okcdn.ru/?expires=1758718667692&srcIp=49.228.234.99&pr=40&srcAg=CHROME&ms=45.136.21.159&type=5&sig=kwR43s-Axdk&ct=0&urls=45.136.22.220&clientType=13&appId=512000384397&id=9211929692846
 https://cdn3.turboviplay.com/data1/68bd82818a390/68bd82818a390.m3u8
 https://cdn1.turboviplay.com/data1/68bc4565b241a/68bc4565b241a.m3u8
 
