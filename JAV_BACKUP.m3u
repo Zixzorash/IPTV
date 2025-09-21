@@ -95,11 +95,11 @@ https://cdn1.turboviplay.com/data1/665b661771329/665b661771329.m3u8?autoplay=1
 https://cdn1.turboviplay.com/data1/684988c6de60d/684988c6de60d.m3u8?dl=1
 https://cdn1.turboviplay.com/data1/684988c6de60d/684988c6de60d1080.m3u8?dl=1
 
-#EXTINF:-1 tvg-type="movies" tvg-name="MIDV-416 [TH-SUB]" tvg-logo="https://img.2048.spa/images/2024/01/19/file1be52.gif" group-title="Mia-Nanasawa" tvg-player="jwplayer",MIDV-416 [TH-SUB]
+#EXTINF:-1 tvg-type="movies" tvg-name="MIDV-416 [TH-SUB]" tvg-logo="https://img.2048.spa/images/2024/01/19/file1be52.gif" group-title="Mia-Nanasawa" tvg-player="videojs",MIDV-416 [TH-SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/MIDV-416.vtt"
-https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI%20-%20%E0%B9%80%E0%B8%AD%E0%B8%A7%E0%B8%B5%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2/MIDV-416.mp4
+https://vkvd281.okcdn.ru/?expires=1758719427759&srcIp=49.228.234.99&pr=40&srcAg=CHROME&ms=185.226.52.159&type=5&sig=v6PNZ0WxDXY&ct=0&urls=185.226.55.150&clientType=13&appId=512000384397&id=9003083958957
 https://3bqvdt.sharepoint.com/sites/MediaSharing/_layouts/15/embed.aspx?UniqueId=060aafd9-a6d0-4fde-82c6-7d13066768c4&embed=%7B%22af%22%3Atrue%2C%22ust%22%3Afalse%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create
 
 #EXTINF:-1 tvg-type="movies" tvg-name="DASS-431 [TH-SUB]" tvg-logo="https://iili.io/Koqc6fR.gif" group-title="Aoi-Yurika" tvg-player="jwplayer",DASS-431 [TH-SUB]
