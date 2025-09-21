@@ -597,10 +597,11 @@ https://vz-1d9210ec-4bd.b-cdn.net/803884fd-fede-445a-a767-cf7b4b10a6ed/playlist.
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
 https://vz-1d9210ec-4bd.b-cdn.net/398999e7-3143-40aa-a5b7-974e119c1d0e/playlist.m3u8
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://s4.gifyu.com/images/bLgGe.gif" group-title="Top-100",MIDA-062
+#EXTINF:-1 tvg-type="movie" tvg-name="MIDA-062" tvg-logo="https://s4.gifyu.com/images/bLgGe.gif" group-title="Kira" tvg-player="jwplayer",MIDA-062
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/c00898ec-cf8a-4a09-83af-4c26e41efafb/playlist.m3u8
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://i.ibb.co/Jj3cfRcH/Screenshot-2025-05-04-05-54-42-561-com-miui-videoplayer-edit.jpg" group-title="Top-100",IPZZ-541
