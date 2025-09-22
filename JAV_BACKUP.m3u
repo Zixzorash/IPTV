@@ -82,11 +82,11 @@ https://cdn4.turboviplay.com/data1/689b39d11bcf9/689b39d11bcf9.m3u8
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="English",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=NO, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/MNGS-021(TH-Gemini).srt"
 https://cdn4.turboviplay.com/data1/68a08fa1e8509/68a08fa1e8509.m3u8
 
-#EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย" tvg-logo="https://iili.io/KoNEtcJ.gif" group-title="Momo-Sakura" tvg-player="videojs",IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย
+#EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย" tvg-logo="https://iili.io/KoNEtcJ.gif" group-title="Momo-Sakura" tvg-player="jwplayer",IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/IPZZ-651(TH-GMN).vtt"
-https://3bqvdt.sharepoint.com/sites/MediaSharing/_layouts/15/download.aspx?UniqueId=4bc1fecc-021f-4958-909e-17d1c54d7ff7&Translate=false&tempauth=v1.eyJzaXRlaWQiOiI0NWI5ODM1My1jYjNmLTQyMDQtOGFjMS1lNWM3ZWM2N2NkZDQiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvM2JxdmR0LnNoYXJlcG9pbnQuY29tQDkwZjFiMTA1LTJmOWEtNGY0NS1iZDQ0LTVkZjUyYzRlYmY5MSIsImV4cCI6IjE3NTg0Nzk0NTEifQ.CiMKCXNoYXJpbmdpZBIWYmRpRUhFNHNLRStZWXpzakc5UHA2ZwoKCgRzbmlkEgI0MxILCJq9-8jUz7w-EAUaDDQ2LjI5LjE0MC45MiIUbWljcm9zb2Z0LnNoYXJlcG9pbnQqLHdFWE5rNEtTR09WR0UvNGYvUmFCRmc5bDlQNGZlekZtSm9FZmRNZ1AzM2M9MIgBOAFCEKHH-A638ABQ5JGtzTwOUIFKEGhhc2hlZHByb29mdG9rZW5iBHRydWVySzBoLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2F0ZW5hbnRhbm9uIzkwZjFiMTA1LTJmOWEtNGY0NS1iZDQ0LTVkZjUyYzRlYmY5MXoBMMIBSzAjLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2F0ZW5hbnRhbm9uIzkwZjFiMTA1LTJmOWEtNGY0NS1iZDQ0LTVkZjUyYzRlYmY5McgBAQ.lJXL8zMHUFe0mbug3lq3mF6_ASIE1eXsP3fmdR2qjcY
+https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI%20-%20%E0%B9%80%E0%B8%AD%E0%B8%A7%E0%B8%B5%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2/IPZZ-651(TH-60fps).mp4
 https://cdn3.turboviplay.com/data1/68bd82818a390/68bd82818a390.m3u8
 
 #EXTINF:-1 tvg-type="movies" tvg-name="PFES-047 [TH-UC]" tvg-logo="https://img.2048.spa/images/2024/05/24/file64882.gif" group-title="Mai-Kagari" tvg-player="jwplayer",PFES-047 [TH-UN]
