@@ -24,10 +24,11 @@ https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456244211.mp4?url=dmt2ZDQ0MS
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://ezycdn.com/playlist-q7ijls8-FHD.m3u8
 
-#EXTINF:-1 tvg-type="movies" tvg-name="FSDSS-931 ปี้กับเพื่อน" tvg-logo="https://iili.io/KY841z7.gif" group-title="Ami-Tokita" tvg-player="jwplayer",FSDSS-931 ปี้กับเพื่อน
+#EXTINF:-1 tvg-type="movies" tvg-name="FSDSS-931 ปี้กับเพื่อน" tvg-logo="https://iili.io/KY841z7.gif" group-title="Ami-Tokita" tvg-player="videojs",FSDSS-931 ปี้กับเพื่อน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/FSDSS-931.vtt"
+https://vkvd418.okcdn.ru/?srcIp=49.228.234.99&pr=40&expires=1759040125282&srcAg=CHROME&fromCache=1&ms=45.136.22.147&type=4&sig=JKWOhnXpIOI&ct=14&urls=185.226.53.170&clientType=13&appId=512000384397&id=9025133283956
 https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI%20-%20%E0%B9%80%E0%B8%AD%E0%B8%A7%E0%B8%B5%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2/FSDSS-931.mp4
 https://cdn3.turboviplay.com/data1/6741d1f91834a/6741d1f91834a.m3u8
 
