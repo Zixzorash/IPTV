@@ -53,7 +53,7 @@ https://surrit.com/9538aa3c-b27e-43a4-920d-bab6c7702ce1/1920x1080/video.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/DASS-481.vtt"
-https://cdn3.turboviplay.com/data1/66f4f36cd1e76/66f4f36cd1e76.m3u8
+https://surrit.com/8c28cb88-15a2-431d-aa53-9f6591bb83fe/1080p/video.m3u8
 
 #EXTINF:-1 tvg-type="movies" tvg-name="CAWD-428" tvg-logo="https://img.2048.spa/images/2025/02/06/2401070206010b79a.gif" group-title="Maiyuki-Ito" tvg-player="jwplayer",CAWD-428
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
