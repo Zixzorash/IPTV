@@ -37,7 +37,7 @@ https://ezycdn.com/playlist-q7ijls8-FHD.m3u8
 https://vz-37785b9b-e4c.b-cdn.net/ebc8409c-1893-457b-96c8-4a8d4a30fcf9/playlist.m3u8
 https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI%20-%20%E0%B9%80%E0%B8%AD%E0%B8%A7%E0%B8%B5%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2/FSDSS-931.mp4
 
-#EXTINF:-1 tvg-type="movies" tvg-name="[DASD-600] พี่เย็ดน้อง" tvg-logo="https://img.2048.spa/images/2024/09/04/24010702060101faf.gif" group-title="Mitsuki-Nagisa" tvg-player="jwplayer",[DASD-600] พี่เย็ดน้อง
+#EXTINF:-1 tvg-type="movies" tvg-name="[DASD-600] พี่เย็ดน้อง" tvg-logo="https://img.2048.spa/images/2024/09/04/24010702060101faf.gif" group-title="Mitsuki-Nagisa" tvg-player="videojs",[DASD-600] พี่เย็ดน้อง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/DASD-600.vtt"
@@ -49,7 +49,7 @@ https://surrit.com/0f3d58b7-5b84-4b70-b3e7-f865efb080b1/1080p/video.m3u8
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/FSDSS-647.vtt"
 https://surrit.com/9538aa3c-b27e-43a4-920d-bab6c7702ce1/1920x1080/video.m3u8
 
-#EXTINF:-1 tvg-type="movies" tvg-name="DASS-481 พี่สาวนายน่ารัก" tvg-logo="https://iili.io/KYEeigI.gif" group-title="Sarina-Momonaga" tvg-player="jwplayer",DASS-481 พี่สาวนายน่ารัก
+#EXTINF:-1 tvg-type="movies" tvg-name="DASS-481 พี่สาวนายน่ารัก" tvg-logo="https://iili.io/KYEeigI.gif" group-title="Sarina-Momonaga" tvg-player="videojs",DASS-481 พี่สาวนายน่ารัก
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/DASS-481.vtt"
