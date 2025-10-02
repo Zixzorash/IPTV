@@ -80,12 +80,11 @@ https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/DVAJ-391_TH-GPT.vtt"
 https://cdn4.turboviplay.com/data1/689b39d11bcf9/689b39d11bcf9.m3u8
 
-#EXTINF:-1 tvg-type="movies" tvg-name="MNGS-021 [TH SUB]" tvg-logo="https://iili.io/KxD6r7f.gif" group-title="Akane-Mitani" tvg-player="jwplayer",MNGS-021 [TH SUB]
+#EXTINF:-1 tvg-type="movies" tvg-name="MNGS-021 [TH SUB]" tvg-logo="https://iili.io/KxD6r7f.gif" group-title="Akane-Mitani" tvg-player="videojs",MNGS-021 [TH SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/MNGS-021.vtt"
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="English",LANGUAGE="en",AUTOSELECT=YES,DEFAULT=NO, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/MNGS-021(TH-Gemini).srt"
-https://cdn4.turboviplay.com/data1/68a08fa1e8509/68a08fa1e8509.m3u8
+https://prx-gb-837116.veevcdn.co/px/AuxWanTajWRTax2bQHiG7Sj5WC5toV6Jsd4LaVLUgMJiC6edtAN2dHqXhUkc5zt7WDur54XsHPKDf2UL2JaaqvA9wXTJV88Ni9UbumNoex5wuwAyt8yJ2o3bkDM9jTH5itBXbHEjFuLMi1SEn2r9ez41H5ryDR3iwUZE9vr6?osr=s-eri-117801.veev.to
 
 #EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย" tvg-logo="https://iili.io/KoNEtcJ.gif" group-title="Momo-Sakura" tvg-player="jwplayer",IPZZ-651 [พี่สาวสิ้นลาย] ซับไทย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
