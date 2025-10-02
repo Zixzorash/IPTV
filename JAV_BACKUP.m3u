@@ -610,11 +610,12 @@ https://vz-1d9210ec-4bd.b-cdn.net/398999e7-3143-40aa-a5b7-974e119c1d0e/playlist.
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/c00898ec-cf8a-4a09-83af-4c26e41efafb/playlist.m3u8
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://i.ibb.co/Jj3cfRcH/Screenshot-2025-05-04-05-54-42-561-com-miui-videoplayer-edit.jpg" group-title="Top-100",IPZZ-541
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://i.ibb.co/Jj3cfRcH/Screenshot-2025-05-04-05-54-42-561-com-miui-videoplayer-edit.jpg" group-title="Saki-Sasaki",IPZZ-541
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
 https://vz-1d9210ec-4bd.b-cdn.net/b7264130-eb69-464a-9d4b-e06cfec25597/playlist.m3u8
+https://sg-gcp-media.evercloud.capcut.com/origin/7556466263909138945?X-Everphoto-Expires=1759382443&X-Everphoto-Size=large&X-Everphoto-Sum=525fcca4b16b3004b43862f322c8c203df56c4b5&X-Everphoto-Token=AAAAAAAAAAAAAAAAAAAAANJ1RK9Mi9wS7k-nbOgtABpGA472oPmLwFGcfgccbnk4-jm8dIhRt79ZcHRhZCRF2dO9t165Cwp70WOy_WxnMbw
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://i.ibb.co/szDVf9s/retouch-2025050215525818.jpg" group-title="Top-100",PFES-103
 #EXT-X-PLAYLIST-TYPE:VOD
