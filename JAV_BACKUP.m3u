@@ -60,11 +60,11 @@ https://surrit.com/8c28cb88-15a2-431d-aa53-9f6591bb83fe/1080p/video.m3u8
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/CAWD-428.vtt"
 https://cdn3.turboviplay.com/data2/hT8IPmq5QCv4Vr8FHqci/hT8IPmq5QCv4Vr8FHqci.m3u8
 
-#EXTINF:-1 tvg-type="movies" tvg-name="JUR-390 ไซด์ไลน์ทำพัง" tvg-logo="https://pic.ylimg.com/images/2025/08/09/24010702060192e2a.gif" group-title="Yuuka-Niizuma" tvg-player="videojs",JUR-390 ไซด์ไลน์ทำพัง
+#EXTINF:-1 tvg-type="movies" tvg-name="JUR-390 ไซด์ไลน์ทำพัง" tvg-logo="https://pic.ylimg.com/images/2025/08/09/24010702060192e2a.gif" group-title="Yuuka-Niizuma" tvg-player="jwplayer",JUR-390 ไซด์ไลน์ทำพัง
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/JUR-390.vtt"
-https://vd329.okcdn.ru/expires/1759498184795/clientType/1/srcIp/184.22.228.137/type/2/mid/10802315790962/id/9087398054514/ms/185.226.53.38/srcAg/CHROME_ANDROID/urls/45.136.20.76/pr/10/ct/28/sig/eZYYopxp69M/ondemand/CPKUiJm9iAISFAjylIiZvYgCEPKUiJm9iAIYcSABGhQI8pSImb2IAhDylIiZvYgCGHEgAiAGKAUwAzgCeL4kLUnauARUcEE/fn/track.m3u8?seo_title=JUR-390
+https://vz-37785b9b-e4c.b-cdn.net/56022359-f092-469a-b386-501db4978d3a/playlist.m3u8?seo_title=JUR-390
 https://cdn3.turboviplay.com/data1/68c2ecfdb07ea/68c2ecfdb07ea.m3u8
 
 #EXTINF:-1 tvg-type="movies" tvg-name="WANZ-735 พี่สาวอ่อย" tvg-logo="https://iili.io/Ko4bmJa.gif" group-title="Minori-Kawana" tvg-player="jwplayer",WANZ-735 พี่สาวอ่อย
