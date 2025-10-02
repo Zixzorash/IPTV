@@ -67,11 +67,11 @@ https://cdn3.turboviplay.com/data2/hT8IPmq5QCv4Vr8FHqci/hT8IPmq5QCv4Vr8FHqci.m3u
 https://sg-gcp-media.evercloud.capcut.com/origin/7556511620156637712?X-Everphoto-Expires=1759403809&X-Everphoto-Size=large&X-Everphoto-Sum=b739db661fd4f2fcce3ec86a8889518f34993e6e&X-Everphoto-Token=AAAAAAAAAAAAAAAAAAAAAL2irS-gpisnzA8kivdes8JTcC2KWjN_iYTjVlGhNaUUcLX9q-F0G-ZL_i7ZR17Pj1-s1tzBpXjHH8NKusNWcw8
 https://cdn3.turboviplay.com/data1/68c2ecfdb07ea/68c2ecfdb07ea.m3u8
 
-#EXTINF:-1 tvg-type="movies" tvg-name="WANZ-735 พี่สาวอ่อย" tvg-logo="https://iili.io/Ko4bmJa.gif" group-title="Minori-Kawana" tvg-player="videojs",WANZ-735 พี่สาวอ่อย
+#EXTINF:-1 tvg-type="movies" tvg-name="WANZ-735 พี่สาวอ่อย" tvg-logo="https://iili.io/Ko4bmJa.gif" group-title="Minori-Kawana" tvg-player="jwplayer",WANZ-735 พี่สาวอ่อย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/WANZ-735.vtt"
-https://vkvd381.okcdn.ru/video.m3u8?cmd=videoPlayerCdn&expires=1758819920158&srcIp=49.228.234.99&pr=40&srcAg=CHROME&ms=185.226.52.204&mid=10161246972067&type=4&sig=-B4vqLNh-So&ct=8&urls=45.136.20.181&clientType=13&id=9005163416142
+https://vz-37785b9b-e4c.b-cdn.net/b78eb7f1-5c56-467d-9ca0-6eb2bcbf775d/playlist.m3u8
 https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI%20-%20%E0%B9%80%E0%B8%AD%E0%B8%A7%E0%B8%B5%20%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2/WANZ-735%20%5B%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A2%E0%B8%B1%E0%B9%88%E0%B8%A7%5D.mp4
 
 #EXTINF:-1 tvg-type="movies" tvg-name="DVAJ-391 [TH SUB]" tvg-logo="https://iili.io/KxD6iI2.gif" group-title="Eimi-Fukada" tvg-player="jwplayer",DVAJ-391 [TH SUB]
