@@ -123,6 +123,7 @@ https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI
 https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456243723.mp4?url=dmt2ZDMzMy5va2Nkbi5ydS8_ZXhwaXJlcz0xNzU3NDkxNDU4Njk5JnNyY0lwPTQ1Ljg0LjI4LjU0JnByPTQwJnNyY0FnPVVOS05PV04mbXM9MTg1LjIyNi41My4xNzAmdHlwZT01JnNpZz1uLXBIQ1RrZUt0QSZjdD0wJnVybHM9NDUuMTM2LjIxLjE4MCZjbGllbnRUeXBlPTE0JmFwcElkPTUxMjAwMDM4NDM5NyZpZD02ODgyNzIyNzc3ODE2&secure=1757232258-WoWrrBBu9JP%2Fs7%2FhPf8rwItB522LZZzOIrtjrZvCi0Y%3D&dl=1
 
 #EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-506 [TH-SUB]" tvg-logo="https://img.2048.spa/images/2025/03/08/2401070206011880b.gif" group-title="Mitsuri-Nagahama" tvg-player="jwplayer",IPZZ-506 [TH-SUB]
+#EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/IPZZ-506.vtt"
