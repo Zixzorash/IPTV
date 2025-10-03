@@ -1,34 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="eva" tvg-logo="https://imggen.eporner.com/13016420/3840/2160/13.jpg", Exo Player
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 AppleWebKit/537.36 (KHTML, like Gecko) Firefox/127.0 Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://www.eporner.com/
-https://vid-s7-n50-fr-cdn.eporner.com/v4/OJD4BZtFoTDHk-IxIAq7mw/1759524334_184.22.228.137_4884/13016420-2160p.mp4
-
-#EXTINF:-1 group-title="eva" tvg-logo="https://imggen.eporner.com/13016420/3840/2160/13.jpg", External Player
-#EXTVLCOPT:http-player-type=external
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 AppleWebKit/537.36 (KHTML, like Gecko) Firefox/127.0 Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=www.eporner.com
-https://vid-s7-n50-fr-cdn.eporner.com/v4/OJD4BZtFoTDHk-IxIAq7mw/1759524334_184.22.228.137_4884/13016420-2160p.mp4
-
-#EXTINF:-1 group-title="eva" tvg-logo="https://imggen.eporner.com/13016420/3840/2160/13.jpg", M3U
-#EXTVLCOPT:http-player-type=m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 AppleWebKit/537.36 (KHTML, like Gecko) Firefox/127.0 Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://www.eporner.com/
-https://vid-s7-n50-fr-cdn.eporner.com/v4/OJD4BZtFoTDHk-IxIAq7mw/1759524334_184.22.228.137_4884/13016420-2160p.mp4
-
-#EXTINF:-1 group-title="eva" tvg-logo="https://imggen.eporner.com/13016420/3840/2160/13.jpg", Browser
-#EXTVLCOPT:http-player-type=browser
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 AppleWebKit/537.36 (KHTML, like Gecko) Firefox/127.0 Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://www.eporner.com/
-https://vid-s7-n50-fr-cdn.eporner.com/v4/OJD4BZtFoTDHk-IxIAq7mw/1759524334_184.22.228.137_4884/13016420-2160p.mp4
-
-#EXTINF:-1 group-title="eva" tvg-logo="https://imggen.eporner.com/13016420/3840/2160/13.jpg", webplayer
-#EXTVLCOPT:http-player-type=webplayer
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 AppleWebKit/537.36 (KHTML, like Gecko) Firefox/127.0 Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://www.eporner.com/
-https://vid-s7-n50-fr-cdn.eporner.com/v4/OJD4BZtFoTDHk-IxIAq7mw/1759524334_184.22.228.137_4884/13016420-2160p.mp4
-
 #EXTINF:-1 tvg-type="movies" tvg-name"IPZZ-317 ผีผ้าห่ม" tvg-logo="https://img.2048.spa/images/2024/12/03/240107020601f7e4f.gif" group-title="Kana-Momonogi" tvg-player="jwplayer",IPZZ-317 ผีผ้าห่ม
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
