@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-type="movies" tvg-name"START-255" tvg-logo="https://img.2048.spa/images/2025/01/18/240107020601b59f5.gif" group-title="Rei-Kamiki" tvg-player="videojs", START-255
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/START-255.vtt"
 https://fcgbwu5x4pis.drewimplemnt.top/d/ggzbiu22o7hvw4m6d6v4d4as3k43gd6gvkmvgjhm4skm26qmjhw4didxtthlvciktjn4giwd/START-255?buffer=30
 
 #EXTINF:-1 tvg-type="movies" tvg-name"FSDSS-703 Living At Home" tvg-logo="https://pics.dmm.co.jp/digital/video/1fsdss703/1fsdss703jp-2.jpg" group-title="Nene-Yoshitaka" tvg-player="videojs", FSDSS-703
