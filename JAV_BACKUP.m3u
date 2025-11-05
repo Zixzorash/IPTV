@@ -495,12 +495,12 @@ https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/05/14
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/start-220.vtt"
 https://cdn2.turboviplay.com/data1/67a00eb754e98/67a00eb754e98.m3u8
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/12/23/file52a9e.jpg" group-title="Konatsu-Kashiwagi",PPPE-286 ยั่วแฟนน้อง
+#EXTINF:-1 tvg-type="movie" tvg-name"PPPE-286" tvg-logo="https://img.2048.spa/images/2024/12/23/file52a9e.jpg" group-title="Konatsu-Kashiwagi" tvg-player="jwplayer",PPPE-286 ยั่วแฟนน้อง
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/PPPE-286.vtt"
-https://cdn.turboviplay.com/data1/6766c0d63aae0/6766c0d63aae0.m3u8
+https://tk3.vdcdn.top/stream/kIgrAFXgmscDc1TST_i9Aw/kjhhiuahiuhgihdf/1762428427/37223037/master.m3u8
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.bmpic.com/images/2025/05/13/24010702060196bfd.gif" group-title="Family",START-326 สุขใจได้ล่อ
 #EXT-X-PLAYLIST-TYPE:VOD
