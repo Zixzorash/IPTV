@@ -817,9 +817,9 @@ https://vz-1d9210ec-4bd.b-cdn.net:443/5db6f28a-6207-4bff-ad3d-4f637b4a9a01/1080p
 
 #--------------- Hikari-Aozora ----------------#
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://pics.dmm.co.jp/digital/video/1start00214/1start00214jp-5.jpg" group-title="Hikari-Aozora",START-214[TH UNCEN]ระบายฟุ้งซ่าน
-#EXT-X-PLAYLIST-TYPE:VOD
-https://gdplayer.to/hls/ZjgwcGJtTVZkODJ3K0l2cnJHZkFnajFWR2kxUitoRUkvZ1hEMURTbmhjSC8rUmdWSDQ3Qk5Wc2ZvMzkrR0RYTzgwTG5jRmxZMnI3N3FORkM0c202NlZWR1hpMnpGaW9DOWszc3hUWVlxajA9/b2J4MUhjS1pnczdhbkR4ckFDTFgzWTVVeW01ZmZYUkQ5S0pWdW5odHk0VExVVCttVU9WbEc4RkRRRkk3NFF2dGRzK0FmSWFaZzhjbG9DODJMNTJNVUxLK242NWdUTGl4THo2QkdpTUhYQzg9/expires/1746661426874/srcIp/141.101.104.74/pr/40/srcAg/CHROME/ms/185.226.55.184/mid/8728172963995/type/3/sig/odt0sE8d7tA/ct/8/urls/45.136.21.157/clientType/13/zs/43/id/7586671757979/video/?gt=SjJyVUxRY3VyOW0vN2d0MUdURkxaK2ZJVVpvYzJEcmhvZC9QY1g2UzFjNDJxS2Nnd1Jtb3U0dGpFZ3ZCK05DeHBGUVdHaDZZRTJDdWgzNkh6S3o1RFE9PQ,,
+#EXTINF:-1 tvg-type="movie" tvg-name"START-214" tvg-logo="https://iili.io/Kt3SI8N.gif" group-title="Hikari-Aozora" tvg-player="jwplayer",START-214
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://hfs317.serversicuro.cc/hls/,dnzpm7h24dg4a3gyvdfh3nzeqljpbifqxhl673kd3abrp4isss7h25qluena,.urlset/master.m3u8
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.photoroom.com/v2/image-cache?path=gs%3A%2F%2Fbackground-7j6xz%2Fusers%2Ftemplates%2Fldat8Hp9stOqIlSqLnM4Y4y1lFi2%2Fa7c9f731-2fdb-4442-889a-cdb1574c9908%2F9e9ab158-203d-488c-af96-ddd891128e96.jpg" group-title="Hikari-Aozora",STARS-679 ฉันเพิ่งรู้ก่อนแต่งงาน
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/08/1741395659jz2GZbeQ7g/updated-playlist.m3u8?du=1741398735&height=1080&userid=&video_version=2.8&platform=zixzorash&default_source=2.8
