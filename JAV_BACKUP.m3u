@@ -790,7 +790,7 @@ https://vz-1d9210ec-4bd.b-cdn.net:443/b3703262-234e-4fc0-ac86-fc5276335c37/1080p
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://pics.dmm.co.jp/digital/video/1sw00331/1sw00331jp-5.jpg" group-title="SUB-TH",SW-331 (Sana Mizuhara)
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/8e0219d8-bbb8-4d95-b37c-6b21bdd8ef6d/1080p/video.m3u8
-#EXTINF:-1 tvg-type="Movies" tvg-name="IPZZ-343 [SubTH]" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/ipzz343/ipzz343pl.jpg" group-title="Tsumugi-Akari",IPZZ-343 (Akari Tsumugi)
+#EXTINF:-1 tvg-type="Movies" tvg-name="IPZZ-343 [SubTH]" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/ipzz343/ipzz343pl.jpg" group-title="Tsumugi-Akari",IPZZ-343
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/09/1741562621UjuDWFRZDh/subtitle/th/subtitle_1741562621UjuDWFRZDh-th-subtitle_main.vtt"
 https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/09/1741562621UjuDWFRZDh/updated-playlist.m3u8
