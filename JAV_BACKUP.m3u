@@ -617,13 +617,13 @@ https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456244871.mp4?url=dmt2ZDE2Mi
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bpNqH.gif" group-title="Top-100",SSIS-903 [TH-UNCEN]
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/803884fd-fede-445a-a767-cf7b4b10a6ed/playlist.m3u8
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2025/01/11/24010702060122662.gif" group-title="Top-100",IPZZ-464
+#EXTINF:-1 tvg-type="movie" tvg-name="IPZZ-464" tvg-logo="https://img.2048.spa/images/2025/01/11/24010702060122662.gif" group-title="Saki-Sasaki" tvg-player="videojs",IPZZ-464
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/398999e7-3143-40aa-a5b7-974e119c1d0e/playlist.m3u8
 
 #EXTINF:-1 tvg-type="movie" tvg-name="MIDA-062" tvg-logo="https://s4.gifyu.com/images/bLgGe.gif" group-title="Kira" tvg-player="jwplayer",MIDA-062
