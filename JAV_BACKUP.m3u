@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name"NGOD-290" tvg-logo="https://ie2.javquick.com/media/2hV5DdWEXeZj3DYaq2NUxG4oNF2l7Xa9WfIeEgA8.jpg" group-title="Yuki-Yoshizawa" tvg-player="jwplayer",NGOD-290
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+https://cdn4.turboviplay.com/data1/68bf4b64868b3/68bf4b64868b3.m3u8
+
 #EXTINF:-1 tvg-type="movies" tvg-name"IPX-998" tvg-logo="https://img.2048.spa/images/2024/10/09/filef9e8f.gif" group-title="Aizawa-Minami" tvg-player="videojs",IPX-998
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 https://lh3.googleusercontent.com/pw/AP1GczOp6CMAzmEgo1l9TQXFtg-sw_UpaOg8wGlbYnoj56-72u8-0_bSRZskixM6MsgxdBJi-WWivCqgqInNAgIvnJYc86yVvb7VjMhbwwG3OgzizSFxB9hS=m37?dl=1
