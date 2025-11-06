@@ -683,10 +683,10 @@ https://fembeqv2.xyz/cdn/hls/a1302ce7cdfdb03bb4a92d128047a40c/master.txt?s=1&d=
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.xsimg.com/images/2024/12/28/24010702060154d17.gif" group-title="OTHER AV",PPPE-127[Minami Kawakita]
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net/d9febc48-8343-4639-9192-f5c1f41b4056/1080p/video.m3u8
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.xsimg.com/images/2024/12/07/240107020601bd08a.gif" group-title="OTHER AV",IPZZ-433 [RM]Saki_Sasaki
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://cdn.xsimg.com/images/2024/12/07/240107020601bd08a.gif" group-title="Saki-Sasaki" tvg-player="jwplayer",IPZZ-433
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net/0a556705-e16e-4b6a-8c9b-2c52ddc8e038/1080p/video.m3u8
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.aimgeek.com/images/2025/01/18/2401070206017c5da.gif" group-title="OTHER AV",MIMK-187 [RM]Saki_Sasaki
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.aimgeek.com/images/2025/01/18/2401070206017c5da.gif" group-title="Saki-Sasaki" tvg-player="jwplayer",MIMK-187
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net/038cc741-16bc-4cd2-8655-f48eafd868f0/720p/video.m3u8
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.aimgeek.com/images/2024/05/04/fileb7c87.gif" group-title="OTHER AV",IPX-922 [RM]Minami_Aizawa
