@@ -699,7 +699,7 @@ https://vz-1d9210ec-4bd.b-cdn.net/0a556705-e16e-4b6a-8c9b-2c52ddc8e038/1080p/vid
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://img.aimgeek.com/images/2025/01/18/2401070206017c5da.gif" group-title="Saki-Sasaki" tvg-player="jwplayer",MIMK-187
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net/038cc741-16bc-4cd2-8655-f48eafd868f0/720p/video.m3u8
-#EXTINF:-1 tvg-type="movie" tvg-name"IPX=922" tvg-logo="https://img.aimgeek.com/images/2024/05/04/fileb7c87.gif" group-title="Aizawa-Minami" tvg-player"jwplayer",IPX-922
+#EXTINF:-1 tvg-type="movie" tvg-name"IPX=922" tvg-logo="https://img.aimgeek.com/images/2024/05/04/fileb7c87.gif" group-title="Aizawa-Minami" tvg-player="jwplayer",IPX-922
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/ipx-922.vtt"
 https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456242616.mp4?url=dmt2ZDI4OC5va2Nkbi5ydS8_ZXhwaXJlcz0xNzYyNzI2NjQwNzkwJnNyY0lwPTQ1Ljg0LjI4LjE5OCZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTE4NS4yMjYuNTIuMTY2JnR5cGU9NSZzaWc9R1N3YzJiNHRBek0mY3Q9MCZ1cmxzPTQ1LjEzNi4yMS4xOTYmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NjYxNTk3NjgzOTcxNg&secure=1762467440-WXl3jHsyIEuh9mpte1%2F7zTYTtG4M%2BHTMcYnaUodm2ZI%3D&dl=1
