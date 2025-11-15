@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movies" tvg-name="EBWH-070" tvg-logo="" group-title="Shio-Sato" tvg-player="jwplayer",EBWH-070
+#EXTINF:-1 tvg-type="movies" tvg-name="EBWH-070" tvg-logo="https://iili.io/f9Z2rgI.gif" group-title="Shio-Sato" tvg-player="jwplayer",EBWH-070
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/EBWH-070.vtt"
