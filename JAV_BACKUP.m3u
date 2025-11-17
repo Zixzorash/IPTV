@@ -697,6 +697,7 @@ https://vz-1d9210ec-4bd.b-cdn.net/803884fd-fede-445a-a767-cf7b4b10a6ed/playlist.
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://vz-1d9210ec-4bd.b-cdn.net/398999e7-3143-40aa-a5b7-974e119c1d0e/playlist.m3u8
+https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&url=https%3A%2F%2Fcdn.pvvstream.pro%2Fvideos%2F-220867277%2F456246488%2Fvid_1080p.mp4%3Frs%3D1080000%26rb%3D8388608%26secure%3D_1XApAoqXK5EADrhxQqooQ%253D%253D%252C1763410466%26dl%3D1&muted=1&controls=auto&theme=default&subtitles=https%3A%2F%2Fraw.githubusercontent.com%2FZixzorash%2FIPTV%2Frefs%2Fheads%2FAV-JAPANESE%2Fsubtitle%2FIPZZ-464_en.vtt%3Ath%3AThai%3A1&buffer=30&quality=1&speed=1&pip=1&fullscreen=1&width=responsive&aspect=16%3A9
 
 #EXTINF:-1 tvg-type="movie" tvg-name="MIDA-062" tvg-logo="https://s4.gifyu.com/images/bLgGe.gif" group-title="Kira" tvg-player="jwplayer",MIDA-062
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
