@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="ROYD-270 [ซับไทย]" tvg-logo="https://pic.ylimg.com/images/2025/10/28/24010702060156051.gif" group-title="Miyu-Otori" tvg-player="videojs",ROYD-270 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+https://video.sajikacash.in.th/JAV/ROYD-270.mp4
+https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&https://lh3.googleusercontent.com/pw/AP1GczPU_wkLpipE2lqId6rOoqdwiKXGBBtbfIvXd_LnV-4uCSaEnjUoCPCdec-CBc7J8BEitcnFV6Pc4jKmpKJy_WF3FjQNxOWCFKNBdjUMOE6ur8dRjYvC=m37&dl=1
+
+#EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-677 [ซับไทย]" tvg-logo="https://pic.ylimg.com/images/2025/10/14/240107020601f2774.gif" group-title="Karen-Kaede" tvg-player="videojs",IPZZ-677 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+https://video.sajikacash.in.th/JAV/IPZZ-677.mp4
+https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&
+
 #EXTINF:-1 tvg-type="movies" tvg-name="MRSS-176 [ซับไทย]" tvg-logo="https://iili.io/ffgkeII.gif" group-title="Yuika-Onozaka" tvg-player="jwplayer",MRSS-176
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
@@ -19,7 +33,7 @@ https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&ur
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
 https://video.sajikacash.in.th/JAV/MIDA-389.mp4
-https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&url=https://lh3.googleusercontent.com/pw/AP1GczPGiKr8qp9aKQFNTHbanglsQX9nNc3BlQ2BPhwUF4MRJwcaZjywCuJzBZWL0bQf3F1GKLmJOa7SXs7AgroftH7p5W8TvapyitS6-B7LhsaOXfCkwCar=m37?dl=1
+https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&url=https://lh3.googleusercontent.com/pw/AP1GczPGiKr8qp9aKQFNTHbanglsQX9nNc3BlQ2BPhwUF4MRJwcaZjywCuJzBZWL0bQf3F1GKLmJOa7SXs7AgroftH7p5W8TvapyitS6-B7LhsaOXfCkwCar=m37&dl=1
 
 #EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-174" tvg-logo="https://cdn.xsimg.com/images/2024/12/11/2401070206015816f.gif" group-title="Saki-Sasaki" tvg-player="videojs",IPZZ-174
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
