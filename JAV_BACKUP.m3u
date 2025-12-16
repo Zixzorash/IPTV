@@ -146,8 +146,8 @@ https://vz-1d9210ec-4bd.b-cdn.net/89741091-f8d0-498b-9832-41fca44742bf/playlist.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
-https://lh3.googleusercontent.com/pw/AP1GczPOathqZ62VVUSaytvhgayw-GEBBpQxyfyK6or5_6icxaFrbWbJLmqHd1qiCW3jtVcCD1tWMdXoSgRsCZS0w7MNy6q3BFwaA7HOepdnnHS3HXooyAO5=m37?dl=1
-https://cdn4.turboviplay.com/data1/68bf4b64868b3/68bf4b64868b3.m3u8
+
+https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&url=https://lh3.googleusercontent.com/pw/AP1GczPOathqZ62VVUSaytvhgayw-GEBBpQxyfyK6or5_6icxaFrbWbJLmqHd1qiCW3jtVcCD1tWMdXoSgRsCZS0w7MNy6q3BFwaA7HOepdnnHS3HXooyAO5=m37?dl=1
 
 #EXTINF:-1 tvg-type="movies" tvg-name="IPX-998" tvg-logo="https://img.2048.spa/images/2024/10/09/filef9e8f.gif" group-title="Aizawa-Minami" tvg-player="videojs",IPX-998
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
