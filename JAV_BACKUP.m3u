@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="SONE-918 [ซับไทย]" tvg-logo="https://iili.io/fcdAmKb.gif" group-title="Hana-Kuraki" tvg-player="videojs",SONE-918 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+https://cdn2.pvvstream.pro/videos/-220867277/456251365/vid_1080p.mp4?secure=1765883593-ogTMD%2FI2S%2BddxF9%2FwgM9PNE5QIciUXt8kdR1G%2BsBVtI%3D?dl=1
+https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&url=
+
 #EXTINF:-1 tvg-type="movies" tvg-name="SQTE-633 [ซับไทย]" tvg-logo="https://pic.ylimg.com/images/2025/10/21/240107020601878b0.gif" group-title="Yorimoto-Siori" tvg-player="jwplayer",SQTE-633 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
