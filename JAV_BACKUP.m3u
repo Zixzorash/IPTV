@@ -7,11 +7,11 @@
 https://
 https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&url=
 
-#EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-729 [ซับไทย]" tvg-logo="https://iili.io/fc341KN.gif" group-title="Marina-Yakuno" tvg-player="videojs",IPZZ-729 [ซับไทย]
+#EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-729 [ซับไทย]" tvg-logo="https://iili.io/fc341KN.gif" group-title="Marina-Yakuno" tvg-player="jwplayer",IPZZ-729 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
-https://
+https://video.sajikacash.in.th/JAV-TH/IPZZ-729.mp4?autoplay=1&quality=1&muted=1&controls=auto&pip=1&fullscreen=1&width=responsive
 https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&url=
 
 #EXTINF:-1 tvg-type="movies" tvg-name="SONE-918 [ซับไทย]" tvg-logo="https://iili.io/fcdAmKb.gif" group-title="Hana-Kuraki" tvg-player="jwplayer",SONE-918 [ซับไทย]
