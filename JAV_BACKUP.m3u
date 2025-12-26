@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="START-470 [ซับไทย]" tvg-logo="https://iili.io/fM62Unj.gif" group-title="Mana-Sakura" tvg-player="jwplayer",START-470 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+https://video.sajikacash.in.th/JAV-TH/START-470_White.mp4
+https://anym3u8player.com/ultimate-player-generator/player.php?player=videojs&url=https://lh3.googleusercontent.com/pw/AP1GczMdTwGXFwshah41MnCaDgEfHHxe_X1xetZ0wmbFP0t1Sjdm_4UdF73wdFJ-4hp-IwuZukssq5sIANoYxr-GyfBtKfxwYxWW0tn8S91aHq7naRTnyKh8=m37&dl=1
+
 #EXTINF:-1 tvg-type="movies" tvg-name="PPPE-296 [ซับไทย]" tvg-logo="https://img.2048.spa/images/2025/01/20/2401070206017a529.gif" group-title="Haruyo-Mocha" tvg-player="jwplayer",PPPE-296 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
