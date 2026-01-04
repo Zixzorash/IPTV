@@ -240,7 +240,7 @@ https://lh3.googleusercontent.com/pw/AP1GczOp6CMAzmEgo1l9TQXFtg-sw_UpaOg8wGlbYno
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/WAAA-128.vtt"
 https://cdn4.turboviplay.com/data1/68b19079b2170/68b19079b2170.m3u8
-https://lh3.googleusercontent.com/pw/AP1GczO7LkuOeMlish3IV3XUqYnxQ-2svxETkVkWybQrYfgWvBapIbPqkU9MicIE0wNgyRBW1K7CLgLyrji0Vz7IKUVQSd73dlJeKvc7uVIhDpKsNdcp7vC6=m37?dl=0
+https://hls1.turbosplayer.com/file/12442fcf-84df-11f0-b2b9-b42e9947f7b9/master.m3u8
 
 #EXTINF:-1 tvg-type="movies" tvg-name="START-255" tvg-logo="https://img.2048.spa/images/2025/01/18/240107020601b59f5.gif" group-title="Rei-Kamiki" tvg-player="jwplayer",START-255
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
