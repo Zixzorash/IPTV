@@ -871,6 +871,7 @@ https://vz-1d9210ec-4bd.b-cdn.net/c00898ec-cf8a-4a09-83af-4c26e41efafb/playlist.
 #EXTINF:-1 tvg-type="movie" tvg-name="IPZZ-541" tvg-logo="https://i.ibb.co/Jj3cfRcH/Screenshot-2025-05-04-05-54-42-561-com-miui-videoplayer-edit.jpg" group-title="Saki-Sasaki" tvg-player="jwplayer",IPZZ-541
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
 https://vz-1d9210ec-4bd.b-cdn.net/b7264130-eb69-464a-9d4b-e06cfec25597/playlist.m3u8
 https://lh3.googleusercontent.com/pw/AP1GczNKBV8chqRE0xJHrQaKIYUN4dZHLlMh_riGPAfFMYRHXjSyWcpOsa1hdgzEwrzV1NuenWf7X1mJYnqwbpVmRZDpSDRRo2YzAxHNIVZfH9EKuIQZCDA5=m37
 
