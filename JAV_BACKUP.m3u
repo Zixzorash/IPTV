@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="MUKD-562 [ซับไทย]" tvg-logo="https://iili.io/fO26zy7.gif" group-title="Shirayuri-Minami" tvg-player="videojs",MUKD-562 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://video.sajikacash.in.th/JAV-TH/
+https://lh3.googleusercontent.com/pw/
+
 #EXTINF:-1 tvg-type="movies" tvg-name="ROYD-170 [ซับไทย]" tvg-logo="https://iili.io/fN46asV.gif" group-title="Ema-Futaba" tvg-player="videojs",ROYD-170 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
