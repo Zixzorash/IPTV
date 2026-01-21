@@ -377,7 +377,8 @@ https://3bqvdt.sharepoint.com/sites/MediaSharing/Shared%20Documents/AV%20SUBTHAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/DVAJ-391_TH-GPT.vtt"
-https://cdn4.turboviplay.com/data1/689b39d11bcf9/689b39d11bcf9.m3u8
+https://o5czhgnohwluyzcb.acek-cdn.com/hls2/01/06046/rb7ihdtgdxqy_,l,n,h,.urlset/master.m3u8?t=-Rw0eTm-Fu2zM2IDO0TrfRWwpRxYCmSUMH0odQp4_4c&s=1769011132&e=129600&f=31541016&srv=yBYPq7qTAXaZkdT2&i=0.4&sp=500&p1=yBYPq7qTAXaZkdT2&p2=yBYPq7qTAXaZkdT2&asn=133481
+https://o5czhgnohwluyzcb.acek-cdn.com/hls2/01/06046/rb7ihdtgdxqy_,l,n,h,.urlset/master.m3u8?t=-Rw0eTm-Fu2zM2IDO0TrfRWwpRxYCmSUMH0odQp4_4c&s=1769011132&e=129600&f=31541016&srv=yBYPq7qTAXaZkdT2&i=0.4&sp=500&p1=yBYPq7qTAXaZkdT2&p2=yBYPq7qTAXaZkdT2&asn=133481
 
 #EXTINF:-1 tvg-type="movies" tvg-name="MNGS-021 [TH SUB]" tvg-logo="https://iili.io/KxD6r7f.gif" group-title="Akane-Mitani" tvg-player="videojs",MNGS-021
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
