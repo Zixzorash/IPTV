@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="SNOS-069 [ซับไทย]" tvg-logo="https://img.yichkp.com/images/2026/01/10/240107020601c297a.gif" group-title="Marin-Mita" tvg-player="videojs",SNOS-069 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://video.sajikacash.in.th/JAV-TH/SNOS-069.mp4
+https://video.sajikacash.in.th/JAV-TH/SNOS-069.mp4
+
 #EXTINF:-1 tvg-type="movies" tvg-name="ADN-673 [ซับไทย]" tvg-logo="https://iili.io/fratiSR.gif" group-title="Kaoru-Yasui" tvg-player="videojs",ADN-673 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
