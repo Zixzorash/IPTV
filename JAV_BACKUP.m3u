@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="ABP-171 [ซับไทย]" tvg-logo="https://64.media.tumblr.com/0056980c66ef480c17eb3b10fe991a32/tumblr_oskf9jk5kj1tdwjfpo7_500.gif" group-title="Momotani-Erika" tvg-player="videojs",ABP-171 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://lh3.googleusercontent.com/pw/AP1GczObQV7Hgl1pWeXkyc3rzBpjH-5ozsWuezwdWySbhBk7AYV-2a3LHeqXw9VX8DNl4G6jTPFOWzhZ6z_XduiS09IWhGfWc90iJQSQIIIzAlLQYnI5eEdk=m37
+https://lh3.googleusercontent.com/pw/AP1GczObQV7Hgl1pWeXkyc3rzBpjH-5ozsWuezwdWySbhBk7AYV-2a3LHeqXw9VX8DNl4G6jTPFOWzhZ6z_XduiS09IWhGfWc90iJQSQIIIzAlLQYnI5eEdk=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="SNOS-069 [ซับไทย]" tvg-logo="https://img.yichkp.com/images/2026/01/10/240107020601c297a.gif" group-title="Marin-Mita" tvg-player="videojs",SNOS-069 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
