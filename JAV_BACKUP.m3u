@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-393 [ ซับไทย ]" tvg-logo="" group-title="Saki-Sasaki" tvg-player="videojs",IPZZ-393 [ ซับไทย ]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://video.sajikacash.in.th/JAV-TH/IPZZ-393.mp4
+https://lh3.googleusercontent.com/pw/AP1GczNwajJt6DrbUW8JPrQa1Oo640wTd_sHj-SxUa0rfsGhZ_B3LMsfH_onjCnsMrqFsWYj4SmqaBlsCnMCAuyvS0mXnkUaYSRVRlcvQuKmnKIvJDhkHtdi=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="ABP-171 [ซับไทย]" tvg-logo="https://64.media.tumblr.com/0056980c66ef480c17eb3b10fe991a32/tumblr_oskf9jk5kj1tdwjfpo7_500.gif" group-title="Momotani-Erika" tvg-player="videojs",ABP-171 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
