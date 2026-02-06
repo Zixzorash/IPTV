@@ -735,7 +735,7 @@ https://cdn1.turboviplay.com/data1/67ed35fb2383c/67ed35fb2383c.m3u8?seo_title=CJ
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/IPZZ-039.vtt"
 https://www.xasiat.com/get_file/11/76bfb193de37d82ee0bc908dd318e6a057fba47a5e/25000/25350/25350_source.mp4?br=3505&rnd=1770399422835&dl=0
-
+https://www.xasiat.com/get_file/11/76bfb193de37d82ee0bc908dd318e6a057fba47a5e/25000/25350/25350_source.mp4?br=3505&rnd=1770399422835
 
 #EXTINF:-1 tvg-type="Movies" tvg-name="SONE-157 [SubTH]" tvg-logo="https://img.2048.spa/images/2024/04/20/file0b2c3.gif" group-title="Mirei-Uno",SONE-157 [SubTH]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
