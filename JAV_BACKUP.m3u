@@ -729,7 +729,7 @@ https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456243760.mp4?url=dmt2ZDM1My
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/CJOD-355-TH.vtt"
 https://cdn1.turboviplay.com/data1/67ed35fb2383c/67ed35fb2383c.m3u8?seo_title=CJOD-355
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/07/17/file018fe.gif" group-title="Aizawa-Minami",IPZZ-039[ซับไทย]
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/07/17/file018fe.gif" group-title="Aizawa-Minami" tvg-player="jwplayer",IPZZ-039[ซับไทย]
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
