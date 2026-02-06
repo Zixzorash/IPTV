@@ -1098,9 +1098,11 @@ https://vz-1d9210ec-4bd.b-cdn.net:443/c95e2e8c-b8be-48ad-b3d9-f82deed13b57/1080p
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://pics.dmm.co.jp/digital/video/1fsdss738/1fsdss738jp-3.jpg" group-title="SUB-TH",FSDSS-738 [Reduicing Mosaic]
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/572a1cfc-1bd6-495d-a2d2-1c0a2b061b05/1080p/video.m3u8
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://static.xascdn.li/contents/videos_sources/16000/16312/screenshots/4.jpg" group-title="SUB-TH",DASS-161
+
+#EXTINF:-1 tvg-type="movie" tvg-logo="https://static.xascdn.li/contents/videos_sources/16000/16312/screenshots/4.jpg" group-title="Natsu-Tojo" tvg-player="videojs",DASS-161 [ซับไทย]
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/cc46b0d3-72fb-4222-a7a7-258f750534b7/1080p/video.m3u8
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bzTXz.gif" group-title="SUB-TH",SONE-269 [THAI UNCEN]
 #EXT-X-PLAYLIST-TYPE:VOD
 https://vz-1d9210ec-4bd.b-cdn.net:443/7fa12607-32d2-4530-a5b7-aeb6e9ea653e/1080p/video.m3u8
