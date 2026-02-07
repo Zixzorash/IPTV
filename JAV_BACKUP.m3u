@@ -497,8 +497,8 @@ https://571561.gvideo.io/videos/571561_IxtAoIStLVO8n9pD/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/JUL-784.vtt"
-https://surrit.com/4e67aafc-3df5-48a0-b5c8-a8325a2ee5ae/1080p/video.m3u8?dl=0
-https://surrit.com/4e67aafc-3df5-48a0-b5c8-a8325a2ee5ae/1080p/video.m3u8?dl=0
+https://surrit.com/4e67aafc-3df5-48a0-b5c8-a8325a2ee5ae/1080p/video.m3u8?dl=1
+https://surrit.com/4e67aafc-3df5-48a0-b5c8-a8325a2ee5ae/1080p/video.m3u8?dl=1
 
 #EXTINF:-1 tvg-type="movies" tvg-name="SONE-207 [TH-SUB]" tvg-logo="https://iili.io/KHQXuDb.gif" group-title="Rie-Miyagi" tvg-player="videojs",SONE-207 [TH-SUB]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
