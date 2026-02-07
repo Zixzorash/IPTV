@@ -493,7 +493,6 @@ https://lh3.googleusercontent.com/pw/AP1GczM592ys-hePhWUYb0gw2l8Zlvergz5B_axNX9R
 https://571561.gvideo.io/videos/571561_IxtAoIStLVO8n9pD/master.m3u8
 
 #EXTINF:-1 tvg-type="movies" tvg-name="JUL-784 [TH]" tvg-logo="https://iili.io/KHPTcbf.gif" group-title="Mina-Kitano" tvg-player="jwplayer",JUL-784 [TH]
-#EXTVLCOPT:http-referrer=https://surrit.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/JUL-784.vtt"
