@@ -372,10 +372,11 @@ https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456249865.mp4?url=dmt2ZDM0NS
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/START-128.vtt"
 https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456244211.mp4?url=dmt2ZDQ0MS5va2Nkbi5ydS8_c3JjSXA9NDUuODQuMjguODcmcHI9NDAmZXhwaXJlcz0xNzU4OTA5NDg3NTg0JnNyY0FnPVVOS05PV04mZnJvbUNhY2hlPTEmbXM9NDUuMTM2LjIxLjE2MiZ0eXBlPTUmc2lnPUpCZEY4Wlh1eUI4JmN0PTAmdXJscz0xODUuMjI2LjUyLjE3MSZjbGllbnRUeXBlPTE0JmFwcElkPTUxMjAwMDM4NDM5NyZpZD03MDcxNDI5NDI5ODA0&secure=1758450287-6iMv1%2FlTCX2GYmRxhSR8GzL5KzXsl15OJS%2BOWFGkc0U%3D&dl=1
 
-#EXTINF:-1 tvg-type="movies" tvg-name="[SONE-398] ซ่อนกลิ่นน้องแฟน" tvg-logo="https://img.2048.spa/images/2024/10/20/24010702060195890.gif" group-title="Hana-Kuraki" tvg-player="jwplayer",[SONE-398] ซ่อนกลิ่นน้องแฟน
+#EXTINF:-1 tvg-type="movies" tvg-name="[SONE-398] ซ่อนกลิ่นน้องแฟน" tvg-logo="https://img.2048.spa/images/2024/10/20/24010702060195890.gif" group-title="Hana-Kuraki" tvg-player="videojs",[SONE-398] ซ่อนกลิ่นน้องแฟน
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://ezycdn.com/playlist-q7ijls8-FHD.m3u8
 https://ezycdn.com/playlist-q7ijls8-FHD.m3u8
 
 #EXTINF:-1 tvg-type="movies" tvg-name="FSDSS-931 ปี้กับเพื่อน" tvg-logo="https://iili.io/KY841z7.gif" group-title="Ami-Tokita" tvg-player="videojs",FSDSS-931 ปี้กับเพื่อน
