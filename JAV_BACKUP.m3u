@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="DASS-468 [ซับไทย]" tvg-logo="https://iili.io/q22LrI1.gif" group-title="Sakura-Kurumi" tvg-player="videojs",DASS-468 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://lh3.googleusercontent.com/pw/AP1GczPzWVZ-luduPN6qENDMSjs2_BdeRMsZhxdQZYnkPrSfhM3mDqx0Pbrg8EFQXzN8VXXv9L5EYs_4lr6PLBTb0DnEjy_cui66XRwesqSyRulRTy8B8ZJq=m37
+https://lh3.googleusercontent.com/pw/AP1GczPzWVZ-luduPN6qENDMSjs2_BdeRMsZhxdQZYnkPrSfhM3mDqx0Pbrg8EFQXzN8VXXv9L5EYs_4lr6PLBTb0DnEjy_cui66XRwesqSyRulRTy8B8ZJq=m37?dl=0
+
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://static.xascdn.li/contents/videos_sources/16000/16312/screenshots/4.jpg" group-title="Natsu-Tojo" tvg-player="videojs",DASS-161 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-PLAYLIST-TYPE:VOD
