@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="MIDA-179 [ซับไทย]" tvg-logo="https://cdn.imweb.me/upload/S20231220cd14f840b81b7/8cfada4e7b2b8.gif" group-title="Aoi-Ichinose" tvg-player="videojs",MIDA-179 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://video.sajikacash.in.th/JAV-TH/MIDA-179.mp4
+https://lh3.googleusercontent.com/pw/AP1GczOQHbbiXFKS5OW_SY-D5rzX0QDtvTmjWbt-nXRhN3PqKegNuXLN--LBrU1NPmQCApD_y2iFSuAlxWHHmvylmLlwrk9bC73U_AE_Q42t8ZgCu03OF77O=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="DASS-468 [ซับไทย]" tvg-logo="https://iili.io/q22LrI1.gif" group-title="Sakura-Kurumi" tvg-player="videojs",DASS-468 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
