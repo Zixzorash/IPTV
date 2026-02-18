@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="SSNI-727 [ซับไทย]" tvg-logo="https://urlimage.cc/attachments/forum/202407/25/093334y0hj3nh8a7d2hown.gif" group-title="Rara-Anzai" tvg-player="videojs",SSNI-727 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://video.sajikacash.in.th/JAV-TH/SSNI-727.mp4
+https://lh3.googleusercontent.com/pw/AP1GczO83kUG4tEb01jPGoBtl0e3Yx6ZPvxolKd3m6WlZOHoap08A_9ImZq1FuxOk5Z6JlttVAczPL411nQUyKi5mpHt5RyNbgIHYF9yTG4z9izFzQwiKv5z=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="SAME-144 [ซับไทย]" tvg-logo="https://img.18av.mov/img/234731/9.jpg" group-title="Ruu-Tokutaka" tvg-player="videojs",SAME-144 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
