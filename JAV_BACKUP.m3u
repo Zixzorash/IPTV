@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="ADN-678 [ซับไทย]" tvg-logo="https://img.18av.mov/img/259817/6.jpg" group-title="Mocha-Haruyo" tvg-player="videojs",ADN-678 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://lh3.googleusercontent.com/pw/AP1GczMkUgHPsXEpU8RS8JE3Y5ZGAdZ8tHmWs9SV2iIKb_P5jUGHLO5PknNhyLX41obc4g-tvpyA1ndIAzLLROidvU_DtT6Q4WvO2p2jO5oMFRyedP-ZtcDa=m37
+https://lh3.googleusercontent.com/pw/AP1GczMkUgHPsXEpU8RS8JE3Y5ZGAdZ8tHmWs9SV2iIKb_P5jUGHLO5PknNhyLX41obc4g-tvpyA1ndIAzLLROidvU_DtT6Q4WvO2p2jO5oMFRyedP-ZtcDa=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="SSNI-727 [ซับไทย]" tvg-logo="https://urlimage.cc/attachments/forum/202407/25/093334y0hj3nh8a7d2hown.gif" group-title="Rara-Anzai" tvg-player="videojs",SSNI-727 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
