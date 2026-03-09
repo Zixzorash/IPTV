@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-type="movies" tvg-name="ROYD-202 [ซับไทย]" tvg-logo="https://pics.dmm.co.jp/digital/video/royd00202/royd00202jp-10.jpg" group-title="Mocha-Haruyo" tvg-player="videojs",ROYD-202 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://raw.githubusercontent.com/Zixzorash/IPTV/refs/heads/AV-JAPANESE/subtitle/ROYD-202.vtt"
 https://surrit.com/4abed895-1c44-43bd-b322-da41990bbb9b/playlist.m3u8?dl=0
 https://surrit.com/4abed895-1c44-43bd-b322-da41990bbb9b/1080p/video.m3u8?buffer=30
 
