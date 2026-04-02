@@ -354,8 +354,8 @@ https://cdn3.turboviplay.com/data1/68bf448ae4fca/68bf448ae4fca.m3u8?dl=0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
-https://cdn3.turboviplay.com/data1/68a84d7710550/68a84d7710550.m3u8?dl=1&streams=1
-https://cdn3.turboviplay.com/data1/68a84d7710550/68a84d7710550.m3u8?streams=0
+https://cache-xx5.wowstream.cloud/blah4/XEn0ezAckFvTgxXzG7ZKZYL9kRp3h4RRFOfD_kmPgxcBydZwwtlTGGo/video.m3u8?v=a2&dl=1&streams=1
+https://cache-xx5.wowstream.cloud/blah4/XEn0ezAckFvTgxXzG7ZKZYL9kRp3h4RRFOfD_kmPgxcBydZwwtlTGGo/video.m3u8?v=a2&streams=1
 
 #EXTINF:-1 tvg-type="movies" tvg-name="MIAA-506" tvg-logo="https://img.2048.spa/images/2025/04/10/2401070206016d042.gif" group-title="Shirato-Hana" tvg-player="videojs",MIAA-506
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
