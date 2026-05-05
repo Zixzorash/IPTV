@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="NTRH-008 [ซับไทย]" tvg-logo="https://iili.io/BQsGBtf.gif" group-title="Sarina-Momonaga" tvg-player="videojs",NTRH-008 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://video.sajikacash.in.th/JAV-TH/NTRH-008.mp4
+https://lh3.googleusercontent.com/pw/AP1GczOpX8LtA5JQA1O1S17QNiD1bu9ZFDu6zML6AeuQ-oBKiX5L0aJ8sVr6986gv_n1FN0Wwx6EbR4P1s2-lM0XoeI1RhL9rbb5JTei7Np5fQccH0s3Iear=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="ROYD-181 [ซับไทย]" tvg-logo="https://iili.io/Bq4Ewnp.jpg" group-title="Mei-Itsukaichi" tvg-player="videojs",ROYD-181[ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
