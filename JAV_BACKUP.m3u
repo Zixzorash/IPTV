@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="SHKD-964 [ซับไทย]" tvg-logo="https://iili.io/ByDvbe4.gif" group-title="Hikari-Ninomiya" tvg-player="videojs",SHKD-964 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+https://pub-9ff8ea56632d4539a5d8ecbcb322757e.r2.dev/JAV-TH/SHKD-964.mp4
+https://lh3.googleusercontent.com/pw/AP1GczMHUKowYzOJyHetA0I_kGslZf45rekLXCU3oHf9mWY6Mj5A9S-wC2_WDGfmJnCPuckaEQqsKQ3a6iczxhzMjpllkaCY_Pf3okdGwiYjKfb5uL6IF3ne=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="NTRH-008 [ซับไทย]" tvg-logo="https://iili.io/BQsGBtf.gif" group-title="Sarina-Momonaga" tvg-player="videojs",NTRH-008 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
