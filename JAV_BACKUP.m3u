@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="SSIS-878 [ซับไทย]" tvg-logo="" group-title="Mirei-Uno" tvg-player="videojs",SSIS-878 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://lh3.googleusercontent.com/pw/AP1GczP-7UeabMEA0rV9AkjR7eZECD22KvrGn5U3jRjR3rThvw0EfyUX-X-0PL6aNh9Gp7a3fafxrms6QZ9xQY0WFIRl2Mi36nB9xkLoeW5bgol2Mo-_8TEV=m37
+https://lh3.googleusercontent.com/pw/AP1GczP-7UeabMEA0rV9AkjR7eZECD22KvrGn5U3jRjR3rThvw0EfyUX-X-0PL6aNh9Gp7a3fafxrms6QZ9xQY0WFIRl2Mi36nB9xkLoeW5bgol2Mo-_8TEV=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="ROYD-288 [ซับไทย]" tvg-logo="https://iili.io/BybgYOJ.gif" group-title="Sarina-Momonaga" tvg-player="videojs",ROYD-288 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
