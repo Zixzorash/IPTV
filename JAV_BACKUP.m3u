@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="ROYD-288 [ซับไทย]" tvg-logo="https://iili.io/BybgYOJ.gif" group-title="Sarina-Momonaga" tvg-player="videojs",ROYD-288 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://lh3.googleusercontent.com/pw/AP1GczNN86xBPT1cCrjj4c28CvfAnGkC6GuFTt64QjHPU5kp_IETOUNoSBW0isAXS4qfVfeByhvTmtx_AF7GKINeG9hCwx63qtJxZ7fkQ-7k7ayl9EQTVCnD=m37
+https://lh3.googleusercontent.com/pw/AP1GczNN86xBPT1cCrjj4c28CvfAnGkC6GuFTt64QjHPU5kp_IETOUNoSBW0isAXS4qfVfeByhvTmtx_AF7GKINeG9hCwx63qtJxZ7fkQ-7k7ayl9EQTVCnD=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="SHKD-964 [ซับไทย]" tvg-logo="https://iili.io/ByDvbe4.gif" group-title="Hikari-Ninomiya" tvg-player="videojs",SHKD-964 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
