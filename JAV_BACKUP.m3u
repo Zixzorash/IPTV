@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movie" tvg-name="CAWD-365 [ซับไทย]" tvg-logo="https://img.2048.spa/images/2024/01/21/filee2c6b.gif" group-title="Mayuki-Itou tvg-player="videojs"",CAWD-365 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://vz-1d9210ec-4bd.b-cdn.net/a9c678d1-74e6-41b4-a445-81bdd807d406/playlist.m3u8
+https://vz-1d9210ec-4bd.b-cdn.net/a9c678d1-74e6-41b4-a445-81bdd807d406/playlist.m3u8?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="SSIS-878 [ซับไทย]" tvg-logo="https://iili.io/BymsNZg.gif" group-title="Mirei-Uno" tvg-player="videojs",SSIS-878 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
@@ -1095,12 +1102,6 @@ https://vz-1d9210ec-4bd.b-cdn.net/15e90418-7ee2-4b96-bae4-b31a9e0fe56f/playlist.
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
 https://vz-1d9210ec-4bd.b-cdn.net/d493f30c-d2da-450f-976b-6662dca3255c/playlist.m3u8
-
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://img.2048.spa/images/2024/01/21/filee2c6b.gif" group-title="Top-100",CAWD-365
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
-https://vz-1d9210ec-4bd.b-cdn.net/a9c678d1-74e6-41b4-a445-81bdd807d406/playlist.m3u8
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s4.gifyu.com/images/bLgVL.gif" group-title="Top-100",SONE-626
 #EXT-X-PLAYLIST-TYPE:VOD
