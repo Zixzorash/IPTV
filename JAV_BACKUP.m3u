@@ -5,7 +5,7 @@
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
 https://cdn.pixeldrain.eu.cc/Ux1Cy6fg
-https://cdn03.pixeldrain.eu.cc/api/file/Ux1Cy6fg?download
+https://cdn03.pixeldrain.eu.cc/api/file/Ux1Cy6fg
 
 #EXTINF:-1 tvg-type="movies" tvg-name="SNOS-117 [ซับไทย]" tvg-logo="https://iili.io/CKFRNP2.gif" group-title="Nozomi-Araki" tvg-player="videojs",SNOS-117 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
