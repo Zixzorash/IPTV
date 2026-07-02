@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-type="movies" tvg-name="NIMA-073 [ซับไทย]" tvg-logo="https://iili.io/CAhNOlI.jpg" group-title="Nanami-Kodama" tvg-player="videojs",NIMA-073 [ซับไทย]
+#EXTINF:-1 tvg-type="movies" tvg-name="NIMA-073 [ซับไทย]" tvg-logo="https://pics.dmm.co.jp/digital/video/nima00073/nima00073jp-15.jpg" group-title="Kashiwagi-Konatsu" tvg-player="videojs",NIMA-073 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
