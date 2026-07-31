@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="IPX-453 [ซับไทย]" tvg-logo="https://jav.wine/wp-content/uploads/2026/06/4085-javwine.webp" group-title="Kana-Momonogi" tvg-player="videojs",IPX-453 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://cdn.fylio.com/u/82304/741680c1-ada2-4212-b8fa-dcc994caa4ad
+https://lh3.googleusercontent.com/pw/AP1GczPCrWqVqPocSjGMZrc6HFIuzR-Wgh4a6Xd39lqwOITM1kaJbqqwFM1jE4FAvX5XCnUsi-2mKtUpG0mjrI4mSIiDjsq60AbtlLpOFYtKCvb1e__gNN7h=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="SNOS-190 [ซับไทย]" tvg-logo="https://pics.dmm.co.jp/digital/video/snos00190/snos00190jp-5.jpg" group-title="Araki-Noa" tvg-player="videojs",SNOS-190 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
