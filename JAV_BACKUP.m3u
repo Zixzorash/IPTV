@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="LULU-441 [ซับไทย]" tvg-logo="https://pics.dmm.co.jp/digital/video/lulu00441/lulu00441jp-6.jpg" group-title="Yuika-Onosaka" tvg-player="videojs",LULU-441 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://cdn.fylio.com/u/82304/1a47a6e4-06cb-4f6e-a8e2-0d4e6fd3687d
+https://lh3.googleusercontent.com/pw/AP1GczNpz9XtptFDsVf63QMjc_kCZ2itO5z2O5mc8GHaroy1SZ_86U46LO6D4pgDz3NQPQ8MYRM9MSrZ2-EVV5Yx1tU40CcbUSyXIedNvYZMU6cJGsAzWUQh=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="IPX-453 [ซับไทย]" tvg-logo="https://iili.io/CSRDKBa.gif" group-title="Kana-Momonogi" tvg-player="videojs",IPX-453 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
