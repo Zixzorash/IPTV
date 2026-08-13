@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="SNOS-152 [ซับไทย]" tvg-logo="https://iili.io/CPj73Yu.gif" group-title="Yuri-Adachi" tvg-player="videojs",SNOS-152 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=""
+https://cdn.fylio.com/u/82304/7d3561e4-e17b-4b49-94e8-af9cb49d3e08
+https://lh3.googleusercontent.com/pw/AP1GczO3P4A6TPpabcx08lm3UtLeh-CR2xoORYo_wbe7cUoYe5mnNdOpbYq1p6cyMH34bsX1zVvsH3gG3murFOSC98wGWaJPibLjkx-G-ECvGhx4sQyNPPw4=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="SNOS-274 [ซับไทย]" tvg-logo="https://pics.dmm.co.jp/digital/video/snos00274/snos00274jp-1.jpg" group-title="Araki-Noa" tvg-player="videojs",SNOS-274 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
