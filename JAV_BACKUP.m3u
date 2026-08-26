@@ -1154,8 +1154,7 @@ https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456244531.mp4?url=dmt2ZDM4Mi
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://gdplayer.to/uploads/subtitles/IPZZ-225.vtt"
 https://cdn-pr.pvvstream.pro/videos/1080/-220867277_456243608.mp4?url=dmt2ZDM3Ny5va2Nkbi5ydS8_ZXhwaXJlcz0xNzQ3NDA1OTI3NDI4JnNyY0lwPTQ1Ljg0LjI4LjIwOCZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTE4NS4yMjYuNTIuMjAwJnR5cGU9NSZzaWc9dXk2M21ucDlLSUkmY3Q9MCZ1cmxzPTQ1LjEzNi4yMS4xNzkmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9NzAwMjAwMTQ0MzUzMw&secure=1747146727-%2FOpwr48PgQQ4Hfq4pF15%2FmalL8uTPBgE2dkTtXvHHMM%3D&dl=1
 
-#EXTINF:-1 tvg-type="movie" tvg-logo="https://s6.gifyu.com/images/bpsly.gif" group-title="Kana-Momonogi",IPX-337 [ซับไทย]
-#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:-1 tvg-type="movies" tvg-name="IPX-337 [ซับไทย]" tvg-logo="https://s6.gifyu.com/images/bpsly.gif" group-title="Kana-Momonogi" tvg-player="videojs",IPX-337 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI="https://vcz-zixzorash-vodlix-cloud.b-cdn.net/u/zixzorash/files/videos/2025/03/30/1743340288CCgigffZ0w/subtitle/th/subtitle_1743340288CCgigffZ0w-th-subtitle_main.vtt"
