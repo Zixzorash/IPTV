@@ -13,6 +13,22 @@
 
 ---
 
+<div align="center">
+
+<video
+controls
+preload="metadata"
+playsinline
+poster="https://javopen.co/wp-content/uploads/2026/08/dlv-006.jpg"
+style="width:100%;max-width:800px;height:auto;">
+<source src="https://cdn.fylio.com/u/82304/d4156ad3-8a0a-4427-bd49-35d1868c7c09">
+Your browser does not support HTML5 video.
+</video>
+
+</div>
+
+---
+
 <!-- สร้างพื้นที่สำหรับแสดง Video Player -->
 <div id="video-player" style="max-width: 800px; margin: 0 auto;"></div>
 
