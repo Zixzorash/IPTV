@@ -13,30 +13,11 @@
 
 ---
 
-<div align="center">
-
-<video
-controls
-preload="metadata"
-playsinline
-poster="https://javopen.co/wp-content/uploads/2026/08/dlv-006.jpg"
-style="width:100%;max-width:800px;height:auto;">
-<source src="https://cdn.fylio.com/u/82304/d4156ad3-8a0a-4427-bd49-35d1868c7c09">
-Your browser does not support HTML5 video.
-</video>
-
-</div>
-
----
-
 # 🎬 Video Player
 
 [![เปิด Video Player](https://github.com/user-attachments/assets/007583dc-6456-4f46-bff1-c07d3bada937)](https://javth-x.pages.dev/)
 
+<p align="center">
 ▶️ [เปิด Video Player](https://javth-x.pages.dev/)
-
----
-
-<img width="720" height="960" alt="1000349543" src="https://github.com/user-attachments/assets/007583dc-6456-4f46-bff1-c07d3bada937" />
-
+</p>
 ---
