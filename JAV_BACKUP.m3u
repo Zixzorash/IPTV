@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="YUJ-003 [ซับไทย]" tvg-logo="https://iili.io/noMqELg.gif" group-title="Nanami-Misaki" tvg-player="videojs",YUJ-003 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://cdn.fylio.com/u/82304/074876c8-4175-473f-a464-4f2802a59c88
+https://lh3.googleusercontent.com/pw/AP1GczMsM91IAS2U2CfH5hpk1bPwd0MUwlbKDB4NcOnjkTIhXYMBY_uNYt7QFqk2Q195oMc5AOC9ZlfaEO7r1IyjrH7bqK5TxMkSRqj_8XcUeoLlWaO-9Xf9=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="IPZZ-904 [ซับไทย]" tvg-logo="https://iili.io/Cm3mf8N.gif" group-title="Suzuna-Yamada" tvg-player="videojs",IPZZ-904 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
