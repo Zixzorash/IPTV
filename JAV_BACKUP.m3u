@@ -4,7 +4,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
-https://cdn4.turboviplay.com/data3/6ab59d7111c7b/6ab59d7111c7b.m3u8
+https://cdn4.turboviplay.com/data3/6ab59d7111c7b/6ab59d7111c7b.m3u8?streams=1
 https://lh3.googleusercontent.com/pw/AP1GczNK9vS8SEpDy1IozUhRvGtiEPJyI4xML1U5tI6tLVWF-rnbTa8hyKf5lBXzp84AvZyk1rskjOBYdaSw0KY2-YxDLH_F2jGyYJ1TNU8UNruXASumYY17=m37?dl=0
 
 #EXTINF:-1 tvg-type="movies" tvg-name="FNS-247 [ซับไทย]" tvg-logo="https://gist.github.com/user-attachments/assets/7ddccdd8-3063-4c3e-bf6d-e13d97c8e2ae" group-title="Tsubasa-Mai" tvg-player="videojs",FNS-247 [ซับไทย]
