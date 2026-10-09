@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="SNOS-070 [ซับไทย]" tvg-logo="https://iili.io/nGNeZ8b.gif" group-title="Kuraki-Hana" tvg-player="videojs",SNOS-070 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://cdn.fylio.com/u/82304/804d34e0-a81b-4298-8d79-21757748703e
+https://lh3.googleusercontent.com/pw/AP1GczM2R8jGWdbjNU6Hixme6RTaI_LQaMmc4xo0Y34937YSIiLZDRnPgDZjBy3ZDibsJBfpWBkZiou8w-gjblnxGi5Ha_EEd2TJIYIV9Tbbbj0pc5Qt41Cr=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="DLDSS-141 [ซับไทย]" tvg-logo="https://iili.io/nEDnaee.gif" group-title="Jun-Mizukawa" tvg-player="videojs",DLDSS-141 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
