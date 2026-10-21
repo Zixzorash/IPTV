@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-type="movies" tvg-name="MIDA-823 [ซับไทย]" tvg-logo="https://iili.io/nNPGL92.gif" group-title="Reina-Miyashita" tvg-player="videojs",MIDA-823 [ซับไทย]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES, URI=" "
+https://cdn.fylio.com/u/82304/
+https://lh3.googleusercontent.com/pw/AP1GczPtZt0yToCK5dFSiYq8kHD74QMfqZ7DefmVOL7aWX7ikwm9JudwOEIEOtpf_q1ihVn1Xzt6b12Iwd75kkUxVovFWae6fW_9HJ7qWZ8ecMqVVg0PVY_3=m37?dl=0
+
 #EXTINF:-1 tvg-type="movies" tvg-name="SNOS-070 [ซับไทย]" tvg-logo="https://iili.io/nGNeZ8b.gif" group-title="Kuraki-Hana" tvg-player="videojs",SNOS-070 [ซับไทย]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
