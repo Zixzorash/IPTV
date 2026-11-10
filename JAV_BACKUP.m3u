@@ -1332,8 +1332,8 @@ https://vz-1d9210ec-4bd.b-cdn.net/572a1cfc-1bd6-495d-a2d2-1c0a2b061b05/playlist.
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=YES
 #EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Thai",LANGUAGE="th",AUTOSELECT=YES,DEFAULT=YES
-https://lh3.googleusercontent.com/pw/AP1GczM9YLTR-jrPeh1En8n3_PK8lBRbH_hzBV15EUl_0nAJIc4dkflw3MXPZrmLBBH4hFChGnzeLBL-X5KZQ-pnl7VihpzbdUp2i-K1TFcN7oLCMK1oqx3n=m37
-https://vz-1d9210ec-4bd.b-cdn.net/d9a6fe48-164d-44e9-949c-730d6316d1c4/playlist.m3u8
+https://cdn.fylio.com/u/82304/48eb346c-0337-4c65-8fe3-5a885fd5e542
+https://lh3.googleusercontent.com/pw/AP1GczM9YLTR-jrPeh1En8n3_PK8lBRbH_hzBV15EUl_0nAJIc4dkflw3MXPZrmLBBH4hFChGnzeLBL-X5KZQ-pnl7VihpzbdUp2i-K1TFcN7oLCMK1oqx3n=m37?dl=0
 
 #EXTINF:-1 tvg-type="movie" tvg-logo="https://s4.gifyu.com/images/bL4Ax.gif" group-title="Top-100",SSIS-998
 #EXT-X-PLAYLIST-TYPE:VOD
